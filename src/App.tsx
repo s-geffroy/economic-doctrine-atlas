@@ -68,6 +68,13 @@ export default function App(){
    const next=selectNextQuestion(questions,nextAnswered,schools.filter(s=>candidateIds.has(s.id)));
    if(!next){setPage('results');setCurrent(undefined);} else setCurrent(next.id);
  }
+
+ // Point d'entree direct. /economic-doctrine-atlas/#test demarre le
+ // questionnaire sans passer par le bandeau d'accueil : c'est le lien que
+ // pose la fiche du travail sur ligne-de-crete.fr, qui annonce « Faire le
+ // test » et doit donc tenir sa promesse en un seul clic.
+ useEffect(()=>{ if(window.location.hash==='#test') start(); }, []);
+
  const q=questions.find(x=>x.id===current);
  const answerLabel=(a:Answer)=>{const qq=questions.find(x=>x.id===a.questionId); if(!qq)return a.value; if(qq.type==='likert')return LIKERT.find(x=>x[0]===a.value)?.[1]??a.value; const o=(qq.options as any[]).find(x=>x.id===a.value); return o?.label??a.value;};
  const historicalRank=econRank.filter(r=>(economists.find(e=>e.id===r.id) as any)?.era==='historical');

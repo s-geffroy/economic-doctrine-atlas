@@ -32,6 +32,10 @@ npm run dev
 En ligne sur <https://www.ligne-de-crete.fr/economic-doctrine-atlas/>, servi par
 le site de ligne de crête depuis un tag de ce dépôt. Voir `docs/DEPLOYMENT.md`.
 
+L'ancre `#test` est un point d'entrée public : `…/economic-doctrine-atlas/#test`
+démarre le questionnaire directement, sans passer par le bandeau d'accueil.
+C'est le lien que pose la fiche du travail sur le site.
+
 ## Principes durs
 
 1. Le questionnaire mesure d’abord des dimensions ; il n’additionne pas directement des points à des écoles.
