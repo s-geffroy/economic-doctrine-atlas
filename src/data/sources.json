@@ -1,0 +1,188 @@
+[
+  {
+    "id": "sep_economics",
+    "type": "academic_encyclopedia",
+    "citation": "Hausman, D. M. et al., “Philosophy of Economics”, Stanford Encyclopedia of Philosophy.",
+    "url": "https://plato.stanford.edu/entries/economics/",
+    "use": "methodology and pluralism"
+  },
+  {
+    "id": "sep_method_individualism",
+    "type": "academic_encyclopedia",
+    "citation": "Heath, J., “Methodological Individualism”, Stanford Encyclopedia of Philosophy.",
+    "url": "https://plato.stanford.edu/entries/methodological-individualism/",
+    "use": "methodological individualism and Hayek"
+  },
+  {
+    "id": "sep_hayek",
+    "type": "academic_encyclopedia",
+    "citation": "Caldwell, B. et al., “Friedrich Hayek”, Stanford Encyclopedia of Philosophy.",
+    "url": "https://plato.stanford.edu/entries/friedrich-hayek/",
+    "use": "Hayek profile"
+  },
+  {
+    "id": "imf_keynesian",
+    "type": "institutional_overview",
+    "citation": "Jahan, S., Mahmud, A. S., Papageorgiou, C., “What Is Keynesian Economics?”, Finance & Development, IMF.",
+    "url": "https://www.imf.org/external/pubs/ft/fandd/basics/4_keynes.htm",
+    "use": "Keynesian overview"
+  },
+  {
+    "id": "imf_austrian_cycle",
+    "type": "working_paper",
+    "citation": "Cachanosky et al., review of Austrian business-cycle theory, IMF Working Paper context.",
+    "url": "https://www.elibrary.imf.org/view/journals/001/2002/002/article-A001-en.xml",
+    "use": "Austrian business-cycle framing"
+  },
+  {
+    "id": "nobel_econ",
+    "type": "official_archive",
+    "citation": "Nobel Prize, All prizes in economic sciences.",
+    "url": "https://www.nobelprize.org/prizes/lists/all-prizes-in-economic-sciences/all/",
+    "use": "laureate biographies and contributions"
+  },
+  {
+    "id": "smith1776",
+    "type": "primary",
+    "citation": "Smith, A. (1776). An Inquiry into the Nature and Causes of the Wealth of Nations.",
+    "use": "classical"
+  },
+  {
+    "id": "ricardo1817",
+    "type": "primary",
+    "citation": "Ricardo, D. (1817). On the Principles of Political Economy and Taxation.",
+    "use": "classical"
+  },
+  {
+    "id": "marx1867",
+    "type": "primary",
+    "citation": "Marx, K. (1867). Das Kapital, Band I.",
+    "use": "Marxian"
+  },
+  {
+    "id": "menger1871",
+    "type": "primary",
+    "citation": "Menger, C. (1871). Grundsätze der Volkswirtschaftslehre.",
+    "use": "Austrian"
+  },
+  {
+    "id": "marshall1890",
+    "type": "primary",
+    "citation": "Marshall, A. (1890). Principles of Economics.",
+    "use": "neoclassical"
+  },
+  {
+    "id": "keynes1936",
+    "type": "primary",
+    "citation": "Keynes, J. M. (1936). The General Theory of Employment, Interest and Money.",
+    "use": "Keynesian"
+  },
+  {
+    "id": "hayek1945",
+    "type": "primary",
+    "citation": "Hayek, F. A. (1945). “The Use of Knowledge in Society”, American Economic Review 35(4): 519–530.",
+    "use": "Austrian / knowledge"
+  },
+  {
+    "id": "friedman1968",
+    "type": "primary",
+    "citation": "Friedman, M. (1968). “The Role of Monetary Policy”, American Economic Review 58(1): 1–17.",
+    "use": "monetarism"
+  },
+  {
+    "id": "lucas1976",
+    "type": "primary",
+    "citation": "Lucas, R. E. Jr. (1976). “Econometric Policy Evaluation: A Critique”, Carnegie-Rochester Conference Series on Public Policy 1: 19–46.",
+    "use": "new classical"
+  },
+  {
+    "id": "coase1960",
+    "type": "primary",
+    "citation": "Coase, R. H. (1960). “The Problem of Social Cost”, Journal of Law and Economics 3: 1–44.",
+    "use": "new institutional / Chicago"
+  },
+  {
+    "id": "north1990",
+    "type": "primary",
+    "citation": "North, D. C. (1990). Institutions, Institutional Change and Economic Performance. Cambridge University Press.",
+    "use": "new institutional"
+  },
+  {
+    "id": "ostrom1990",
+    "type": "primary",
+    "citation": "Ostrom, E. (1990). Governing the Commons. Cambridge University Press.",
+    "use": "institutional"
+  },
+  {
+    "id": "buchanan_tullock1962",
+    "type": "primary",
+    "citation": "Buchanan, J. M., Tullock, G. (1962). The Calculus of Consent. University of Michigan Press.",
+    "use": "public choice"
+  },
+  {
+    "id": "sraffa1960",
+    "type": "primary",
+    "citation": "Sraffa, P. (1960). Production of Commodities by Means of Commodities. Cambridge University Press.",
+    "use": "Sraffian"
+  },
+  {
+    "id": "kahneman_tversky1979",
+    "type": "primary",
+    "citation": "Kahneman, D., Tversky, A. (1979). “Prospect Theory: An Analysis of Decision under Risk”, Econometrica 47(2): 263–291.",
+    "use": "behavioral"
+  },
+  {
+    "id": "georgescu1971",
+    "type": "primary",
+    "citation": "Georgescu-Roegen, N. (1971). The Entropy Law and the Economic Process. Harvard University Press.",
+    "use": "ecological"
+  },
+  {
+    "id": "lerner1943",
+    "type": "primary",
+    "citation": "Lerner, A. P. (1943). “Functional Finance and the Federal Debt”, Social Research 10(1): 38–51.",
+    "use": "functional finance / MMT antecedent"
+  },
+  {
+    "id": "prebisch1950",
+    "type": "primary",
+    "citation": "Prebisch, R. (1950). The Economic Development of Latin America and Its Principal Problems. United Nations / ECLA.",
+    "use": "developmentalist"
+  },
+  {
+    "id": "lavoie2014",
+    "type": "secondary_academic",
+    "citation": "Lavoie, M. (2014). Post-Keynesian Economics: New Foundations. Edward Elgar.",
+    "use": "post-Keynesian"
+  },
+  {
+    "id": "woodford2003",
+    "type": "secondary_academic",
+    "citation": "Woodford, M. (2003). Interest and Prices. Princeton University Press.",
+    "use": "new Keynesian"
+  },
+  {
+    "id": "williamson1985",
+    "type": "primary",
+    "citation": "Williamson, O. E. (1985). The Economic Institutions of Capitalism. Free Press.",
+    "use": "new institutional"
+  },
+  {
+    "id": "daly1996",
+    "type": "primary",
+    "citation": "Daly, H. E. (1996). Beyond Growth. Beacon Press.",
+    "use": "ecological"
+  },
+  {
+    "id": "wray1998",
+    "type": "primary",
+    "citation": "Wray, L. R. (1998). Understanding Modern Money. Edward Elgar.",
+    "use": "MMT"
+  },
+  {
+    "id": "hirschman1958",
+    "type": "primary",
+    "citation": "Hirschman, A. O. (1958). The Strategy of Economic Development. Yale University Press.",
+    "use": "developmentalist"
+  }
+]

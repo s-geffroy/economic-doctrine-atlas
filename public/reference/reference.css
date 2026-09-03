@@ -1,0 +1,124 @@
+/* ==========================================================================
+   Fiches de reference de l'Atlas doctrinal — ecoles et economistes.
+
+   Ces 76 pages sont du HTML statique, servi tel quel : elles ne passent pas
+   par React. Elles portaient chacune une copie du meme bloc <style> inline ;
+   la feuille est desormais partagee, sur les jetons de ligne de crete.
+   ========================================================================== */
+
+@font-face {
+  font-family: "Plex Sans";
+  src: url("/assets/fonts/IBMPlexSans-Regular-Latin1.woff2") format("woff2");
+  font-weight: 400; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: "Plex Sans";
+  src: url("/assets/fonts/IBMPlexSans-SemiBold-Latin1.woff2") format("woff2");
+  font-weight: 600; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: "Plex Mono";
+  src: url("/assets/fonts/IBMPlexMono-Regular-Latin1.woff2") format("woff2");
+  font-weight: 400; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: "Plex Mono";
+  src: url("/assets/fonts/IBMPlexMono-SemiBold-Latin1.woff2") format("woff2");
+  font-weight: 600; font-style: normal; font-display: swap;
+}
+
+:root {
+  --fond: #0B0E0F; --fond-doux: #0F1416; --surface: #12171A;
+  --filet: #1F2A2E; --texte: #D6DEE1; --texte-fort: #F2F6F7;
+  --attenue: #7C8C92; --accent: #5EE6A8; --accent-2: #6FD3E8; --alerte: #E8B36F;
+  --police-sans: "Plex Sans", ui-sans-serif, system-ui, -apple-system, sans-serif;
+  --police-mono: "Plex Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+  --rayon: 3px;
+  color-scheme: dark;
+}
+
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) {
+    --fond: #F7F8F7; --fond-doux: #FFFFFF; --surface: #FFFFFF;
+    --filet: #E1E6E4; --texte: #10161A; --texte-fort: #05090B;
+    --attenue: #566468; --accent: #06714E; --accent-2: #0E6478; --alerte: #8A5A12;
+    color-scheme: light;
+  }
+}
+
+:root[data-theme="light"] {
+  --fond: #F7F8F7; --fond-doux: #FFFFFF; --surface: #FFFFFF;
+  --filet: #E1E6E4; --texte: #10161A; --texte-fort: #05090B;
+  --attenue: #566468; --accent: #06714E; --accent-2: #0E6478; --alerte: #8A5A12;
+  color-scheme: light;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--fond);
+  color: var(--texte);
+  font-family: var(--police-sans);
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+
+.wrap { max-width: 56rem; margin: auto; padding: 3rem clamp(1.25rem, 4vw, 2rem) 5rem; }
+
+a { color: inherit; }
+a:hover { color: var(--accent); }
+
+.eyebrow {
+  font-family: var(--police-mono);
+  text-transform: uppercase; letter-spacing: .14em;
+  font-size: .72rem; font-weight: 600;
+  color: var(--accent);
+  margin: 0;
+}
+
+h1 {
+  font-size: clamp(2.2rem, 6vw, 3.6rem);
+  letter-spacing: -.035em; line-height: 1.04;
+  color: var(--texte-fort); font-weight: 600;
+  margin: .25em 0 .3em;
+}
+h2 {
+  font-size: clamp(1.3rem, 3vw, 1.7rem);
+  color: var(--texte-fort); font-weight: 600; letter-spacing: -.02em;
+  margin-top: 2.5rem;
+}
+
+.lead { font-size: 1.1rem; line-height: 1.6; }
+
+.note {
+  padding: 1rem 1.15rem;
+  border-left: 3px solid var(--alerte);
+  background: var(--fond-doux);
+  line-height: 1.55;
+}
+
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr)); gap: .6rem; }
+
+.box {
+  background: var(--surface);
+  border: 1px solid var(--filet);
+  border-radius: var(--rayon);
+  padding: 1.1rem 1.25rem;
+}
+
+.axis {
+  display: flex; justify-content: space-between; gap: 1.25rem;
+  padding: .55rem 0; border-bottom: 1px solid var(--filet);
+}
+.axis:last-child { border-bottom: 0; }
+.axis code { font-family: var(--police-mono); font-weight: 600; color: var(--accent); }
+
+li { margin: .45em 0; line-height: 1.5; }
+
+footer {
+  margin-top: 3.5rem; padding-top: 1.25rem;
+  border-top: 1px solid var(--filet);
+  color: var(--attenue);
+  font-family: var(--police-mono); font-size: .78rem;
+}

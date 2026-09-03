@@ -1,0 +1,2298 @@
+[
+  {
+    "id": "adam_smith",
+    "name": "Adam Smith",
+    "historical_affiliation": "classical",
+    "summary": "Profil doctrinal de Adam Smith, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": 0.4,
+      "subjective_value": 0.0,
+      "knowledge_decentralization": 0.2,
+      "equilibrium_orientation": 0.3,
+      "uncertainty_fundamental": -0.2,
+      "money_endogeneity": -0.3,
+      "aggregate_demand_centrality": -0.4,
+      "institutions_causal": 0.3,
+      "state_scope": -0.2,
+      "rule_bound_policy": 0.3,
+      "redistribution_priority": -0.3,
+      "ecological_constraints": -0.4
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "The Theory of Moral Sentiments (1759)",
+      "An Inquiry into the Nature and Causes of the Wealth of Nations (1776)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "historical"
+  },
+  {
+    "id": "david_ricardo",
+    "name": "David Ricardo",
+    "historical_affiliation": "classical",
+    "summary": "Profil doctrinal de David Ricardo, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": 0.4,
+      "subjective_value": -0.5,
+      "knowledge_decentralization": 0.2,
+      "equilibrium_orientation": 0.3,
+      "uncertainty_fundamental": -0.2,
+      "money_endogeneity": -0.3,
+      "aggregate_demand_centrality": -0.4,
+      "institutions_causal": 0.1,
+      "state_scope": -0.4,
+      "rule_bound_policy": 0.3,
+      "redistribution_priority": -0.1,
+      "ecological_constraints": -0.4
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "On the Principles of Political Economy and Taxation (1817)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "historical"
+  },
+  {
+    "id": "thomas_malthus",
+    "name": "Thomas Robert Malthus",
+    "historical_affiliation": "classical",
+    "summary": "Profil doctrinal de Thomas Robert Malthus, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": 0.4,
+      "subjective_value": 0.0,
+      "knowledge_decentralization": 0.2,
+      "equilibrium_orientation": 0.3,
+      "uncertainty_fundamental": 0.1,
+      "money_endogeneity": -0.3,
+      "aggregate_demand_centrality": 0.2,
+      "institutions_causal": 0.1,
+      "state_scope": -0.4,
+      "rule_bound_policy": 0.3,
+      "redistribution_priority": -0.3,
+      "ecological_constraints": -0.4
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "An Essay on the Principle of Population (1798)",
+      "Principles of Political Economy (1820)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "historical"
+  },
+  {
+    "id": "john_stuart_mill",
+    "name": "John Stuart Mill",
+    "historical_affiliation": "classical",
+    "summary": "Profil doctrinal de John Stuart Mill, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": 0.4,
+      "subjective_value": 0.0,
+      "knowledge_decentralization": 0.2,
+      "equilibrium_orientation": 0.3,
+      "uncertainty_fundamental": -0.2,
+      "money_endogeneity": -0.3,
+      "aggregate_demand_centrality": -0.4,
+      "institutions_causal": 0.3,
+      "state_scope": 0.0,
+      "rule_bound_policy": 0.3,
+      "redistribution_priority": 0.2,
+      "ecological_constraints": -0.4
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "Principles of Political Economy (1848)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "historical"
+  },
+  {
+    "id": "karl_marx",
+    "name": "Karl Marx",
+    "historical_affiliation": "marxian",
+    "summary": "Profil doctrinal de Karl Marx, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": -1,
+      "subjective_value": -0.9,
+      "knowledge_decentralization": -0.8,
+      "equilibrium_orientation": -0.9,
+      "uncertainty_fundamental": 1,
+      "money_endogeneity": 1,
+      "aggregate_demand_centrality": 0.6,
+      "institutions_causal": 0.8,
+      "state_scope": 1,
+      "rule_bound_policy": -0.8,
+      "redistribution_priority": 1,
+      "ecological_constraints": 0.2
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "Capital, Vol. I (1867)",
+      "Capital, Vol. III (1894)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "historical"
+  },
+  {
+    "id": "leon_walras",
+    "name": "Léon Walras",
+    "historical_affiliation": "neoclassical",
+    "summary": "Profil doctrinal de Léon Walras, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": 0.8,
+      "subjective_value": 0.8,
+      "knowledge_decentralization": 0.2,
+      "equilibrium_orientation": 1.0,
+      "uncertainty_fundamental": -0.7,
+      "money_endogeneity": -0.3,
+      "aggregate_demand_centrality": -0.2,
+      "institutions_causal": 0.0,
+      "state_scope": -0.3,
+      "rule_bound_policy": 0.1,
+      "redistribution_priority": -0.4,
+      "ecological_constraints": -0.4
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "Éléments d’économie politique pure (1874–1877)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "historical"
+  },
+  {
+    "id": "alfred_marshall",
+    "name": "Alfred Marshall",
+    "historical_affiliation": "neoclassical",
+    "summary": "Profil doctrinal de Alfred Marshall, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": 0.8,
+      "subjective_value": 0.8,
+      "knowledge_decentralization": 0.2,
+      "equilibrium_orientation": 0.7,
+      "uncertainty_fundamental": -0.7,
+      "money_endogeneity": -0.3,
+      "aggregate_demand_centrality": -0.2,
+      "institutions_causal": 0.2,
+      "state_scope": -0.3,
+      "rule_bound_policy": 0.1,
+      "redistribution_priority": -0.4,
+      "ecological_constraints": -0.4
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "Principles of Economics (1890)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "historical"
+  },
+  {
+    "id": "william_jevons",
+    "name": "William Stanley Jevons",
+    "historical_affiliation": "neoclassical",
+    "summary": "Profil doctrinal de William Stanley Jevons, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": 0.8,
+      "subjective_value": 1.0,
+      "knowledge_decentralization": 0.2,
+      "equilibrium_orientation": 0.9,
+      "uncertainty_fundamental": -0.7,
+      "money_endogeneity": -0.3,
+      "aggregate_demand_centrality": -0.2,
+      "institutions_causal": 0.0,
+      "state_scope": -0.3,
+      "rule_bound_policy": 0.1,
+      "redistribution_priority": -0.4,
+      "ecological_constraints": -0.4
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "The Theory of Political Economy (1871)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "historical"
+  },
+  {
+    "id": "carl_menger",
+    "name": "Carl Menger",
+    "historical_affiliation": "austrian",
+    "summary": "Profil doctrinal de Carl Menger, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": 1,
+      "subjective_value": 1,
+      "knowledge_decentralization": 1,
+      "equilibrium_orientation": -0.3,
+      "uncertainty_fundamental": 0.8,
+      "money_endogeneity": -0.3,
+      "aggregate_demand_centrality": -0.9,
+      "institutions_causal": 0.3,
+      "state_scope": -0.9,
+      "rule_bound_policy": 0.8,
+      "redistribution_priority": -0.8,
+      "ecological_constraints": -0.5
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "Principles of Economics (1871)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "historical"
+  },
+  {
+    "id": "bohm_bawerk",
+    "name": "Eugen von Böhm-Bawerk",
+    "historical_affiliation": "austrian",
+    "summary": "Profil doctrinal de Eugen von Böhm-Bawerk, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": 1,
+      "subjective_value": 1,
+      "knowledge_decentralization": 1,
+      "equilibrium_orientation": 0.0,
+      "uncertainty_fundamental": 0.8,
+      "money_endogeneity": -0.8,
+      "aggregate_demand_centrality": -0.9,
+      "institutions_causal": 0.3,
+      "state_scope": -0.9,
+      "rule_bound_policy": 0.8,
+      "redistribution_priority": -0.8,
+      "ecological_constraints": -0.5
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "Capital and Interest (1884–1889)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "historical"
+  },
+  {
+    "id": "ludwig_mises",
+    "name": "Ludwig von Mises",
+    "historical_affiliation": "austrian",
+    "summary": "Profil doctrinal de Ludwig von Mises, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": 1.0,
+      "subjective_value": 1,
+      "knowledge_decentralization": 1,
+      "equilibrium_orientation": -0.7,
+      "uncertainty_fundamental": 0.8,
+      "money_endogeneity": -0.8,
+      "aggregate_demand_centrality": -0.9,
+      "institutions_causal": 0.3,
+      "state_scope": -1.0,
+      "rule_bound_policy": 0.8,
+      "redistribution_priority": -0.8,
+      "ecological_constraints": -0.5
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "Human Action (1949)",
+      "The Theory of Money and Credit (1912)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "historical"
+  },
+  {
+    "id": "friedrich_hayek",
+    "name": "Friedrich A. Hayek",
+    "historical_affiliation": "austrian",
+    "summary": "Profil doctrinal de Friedrich A. Hayek, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": 1,
+      "subjective_value": 1,
+      "knowledge_decentralization": 1.0,
+      "equilibrium_orientation": -0.7,
+      "uncertainty_fundamental": 0.8,
+      "money_endogeneity": -0.8,
+      "aggregate_demand_centrality": -0.9,
+      "institutions_causal": 0.8,
+      "state_scope": -0.7,
+      "rule_bound_policy": 0.8,
+      "redistribution_priority": -0.8,
+      "ecological_constraints": -0.5
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "The Use of Knowledge in Society (1945)",
+      "The Constitution of Liberty (1960)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "historical"
+  },
+  {
+    "id": "john_maynard_keynes",
+    "name": "John Maynard Keynes",
+    "historical_affiliation": "keynesian",
+    "summary": "Profil doctrinal de John Maynard Keynes, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": 0.3,
+      "subjective_value": 0.4,
+      "knowledge_decentralization": -0.1,
+      "equilibrium_orientation": 0.2,
+      "uncertainty_fundamental": 1.0,
+      "money_endogeneity": 0.5,
+      "aggregate_demand_centrality": 1.0,
+      "institutions_causal": 0.2,
+      "state_scope": 0.5,
+      "rule_bound_policy": -0.2,
+      "redistribution_priority": 0.4,
+      "ecological_constraints": -0.2
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "A Treatise on Money (1930)",
+      "The General Theory of Employment, Interest and Money (1936)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "historical"
+  },
+  {
+    "id": "joan_robinson",
+    "name": "Joan Robinson",
+    "historical_affiliation": "post_keynesian",
+    "summary": "Profil doctrinal de Joan Robinson, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": -0.1,
+      "subjective_value": 0.2,
+      "knowledge_decentralization": -0.3,
+      "equilibrium_orientation": -0.9,
+      "uncertainty_fundamental": 1,
+      "money_endogeneity": 1,
+      "aggregate_demand_centrality": 1,
+      "institutions_causal": 0.4,
+      "state_scope": 0.7,
+      "rule_bound_policy": -0.3,
+      "redistribution_priority": 0.6,
+      "ecological_constraints": -0.1
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "The Economics of Imperfect Competition (1933)",
+      "The Accumulation of Capital (1956)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "historical"
+  },
+  {
+    "id": "michal_kalecki",
+    "name": "Michał Kalecki",
+    "historical_affiliation": "post_keynesian",
+    "summary": "Profil doctrinal de Michał Kalecki, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": -0.1,
+      "subjective_value": 0.2,
+      "knowledge_decentralization": -0.3,
+      "equilibrium_orientation": -0.8,
+      "uncertainty_fundamental": 1,
+      "money_endogeneity": 1,
+      "aggregate_demand_centrality": 1.0,
+      "institutions_causal": 0.4,
+      "state_scope": 0.7,
+      "rule_bound_policy": -0.3,
+      "redistribution_priority": 0.8,
+      "ecological_constraints": -0.1
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "Theory of Economic Dynamics (1954)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "historical"
+  },
+  {
+    "id": "nicholas_kaldor",
+    "name": "Nicholas Kaldor",
+    "historical_affiliation": "post_keynesian",
+    "summary": "Profil doctrinal de Nicholas Kaldor, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": -0.1,
+      "subjective_value": 0.2,
+      "knowledge_decentralization": -0.3,
+      "equilibrium_orientation": -0.8,
+      "uncertainty_fundamental": 1,
+      "money_endogeneity": 1,
+      "aggregate_demand_centrality": 1,
+      "institutions_causal": 0.5,
+      "state_scope": 0.7,
+      "rule_bound_policy": -0.3,
+      "redistribution_priority": 0.6,
+      "ecological_constraints": -0.1
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "Essays on Economic Stability and Growth (1960)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "modern_contemporary"
+  },
+  {
+    "id": "hyman_minsky",
+    "name": "Hyman P. Minsky",
+    "historical_affiliation": "post_keynesian",
+    "summary": "Profil doctrinal de Hyman P. Minsky, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": -0.1,
+      "subjective_value": 0.2,
+      "knowledge_decentralization": -0.3,
+      "equilibrium_orientation": -0.8,
+      "uncertainty_fundamental": 1.0,
+      "money_endogeneity": 1.0,
+      "aggregate_demand_centrality": 1,
+      "institutions_causal": 0.4,
+      "state_scope": 0.7,
+      "rule_bound_policy": -0.3,
+      "redistribution_priority": 0.6,
+      "ecological_constraints": -0.1
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "Stabilizing an Unstable Economy (1986)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "modern_contemporary"
+  },
+  {
+    "id": "paul_davidson",
+    "name": "Paul Davidson",
+    "historical_affiliation": "post_keynesian",
+    "summary": "Profil doctrinal de Paul Davidson, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": -0.1,
+      "subjective_value": 0.2,
+      "knowledge_decentralization": -0.3,
+      "equilibrium_orientation": -0.8,
+      "uncertainty_fundamental": 1.0,
+      "money_endogeneity": 1,
+      "aggregate_demand_centrality": 1,
+      "institutions_causal": 0.4,
+      "state_scope": 0.7,
+      "rule_bound_policy": -0.3,
+      "redistribution_priority": 0.6,
+      "ecological_constraints": -0.1
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "Money and the Real World (1972)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "modern_contemporary"
+  },
+  {
+    "id": "john_hicks",
+    "name": "John Hicks",
+    "historical_affiliation": "neoclassical",
+    "summary": "Profil doctrinal de John Hicks, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": 0.8,
+      "subjective_value": 0.8,
+      "knowledge_decentralization": 0.2,
+      "equilibrium_orientation": 0.9,
+      "uncertainty_fundamental": -0.7,
+      "money_endogeneity": -0.3,
+      "aggregate_demand_centrality": 0.5,
+      "institutions_causal": 0.0,
+      "state_scope": -0.3,
+      "rule_bound_policy": 0.1,
+      "redistribution_priority": -0.4,
+      "ecological_constraints": -0.4
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "Value and Capital (1939)",
+      "Mr. Keynes and the Classics (1937)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "historical"
+  },
+  {
+    "id": "paul_samuelson",
+    "name": "Paul A. Samuelson",
+    "historical_affiliation": "neoclassical",
+    "summary": "Profil doctrinal de Paul A. Samuelson, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": 0.8,
+      "subjective_value": 0.8,
+      "knowledge_decentralization": 0.2,
+      "equilibrium_orientation": 0.9,
+      "uncertainty_fundamental": -0.7,
+      "money_endogeneity": -0.3,
+      "aggregate_demand_centrality": 0.4,
+      "institutions_causal": 0.0,
+      "state_scope": 0.2,
+      "rule_bound_policy": 0.1,
+      "redistribution_priority": -0.4,
+      "ecological_constraints": -0.4
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "Foundations of Economic Analysis (1947)",
+      "Economics (1948)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "historical"
+  },
+  {
+    "id": "james_tobin",
+    "name": "James Tobin",
+    "historical_affiliation": "keynesian",
+    "summary": "Profil doctrinal de James Tobin, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": 0.3,
+      "subjective_value": 0.4,
+      "knowledge_decentralization": -0.1,
+      "equilibrium_orientation": 0.2,
+      "uncertainty_fundamental": 0.8,
+      "money_endogeneity": 0.4,
+      "aggregate_demand_centrality": 0.9,
+      "institutions_causal": 0.2,
+      "state_scope": 0.4,
+      "rule_bound_policy": -0.2,
+      "redistribution_priority": 0.4,
+      "ecological_constraints": -0.2
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "Asset Accumulation and Economic Activity (1980)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "modern_contemporary"
+  },
+  {
+    "id": "franco_modigliani",
+    "name": "Franco Modigliani",
+    "historical_affiliation": "keynesian",
+    "summary": "Profil doctrinal de Franco Modigliani, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": 0.3,
+      "subjective_value": 0.4,
+      "knowledge_decentralization": -0.1,
+      "equilibrium_orientation": 0.6,
+      "uncertainty_fundamental": 0.8,
+      "money_endogeneity": 0.5,
+      "aggregate_demand_centrality": 0.9,
+      "institutions_causal": 0.2,
+      "state_scope": 0.5,
+      "rule_bound_policy": -0.2,
+      "redistribution_priority": 0.4,
+      "ecological_constraints": -0.2
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "Liquidity Preference and the Theory of Interest and Money (1944)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "historical"
+  },
+  {
+    "id": "robert_solow",
+    "name": "Robert M. Solow",
+    "historical_affiliation": "neoclassical",
+    "summary": "Profil doctrinal de Robert M. Solow, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": 0.8,
+      "subjective_value": 0.8,
+      "knowledge_decentralization": 0.2,
+      "equilibrium_orientation": 0.9,
+      "uncertainty_fundamental": -0.7,
+      "money_endogeneity": -0.3,
+      "aggregate_demand_centrality": -0.2,
+      "institutions_causal": 0.0,
+      "state_scope": 0.1,
+      "rule_bound_policy": 0.1,
+      "redistribution_priority": 0.1,
+      "ecological_constraints": -0.4
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "A Contribution to the Theory of Economic Growth (1956)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "historical"
+  },
+  {
+    "id": "milton_friedman",
+    "name": "Milton Friedman",
+    "historical_affiliation": "monetarist",
+    "summary": "Profil doctrinal de Milton Friedman, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": 0.8,
+      "subjective_value": 0.8,
+      "knowledge_decentralization": 0.3,
+      "equilibrium_orientation": 0.8,
+      "uncertainty_fundamental": -0.5,
+      "money_endogeneity": -0.8,
+      "aggregate_demand_centrality": -0.5,
+      "institutions_causal": 0.1,
+      "state_scope": -0.8,
+      "rule_bound_policy": 1.0,
+      "redistribution_priority": -0.5,
+      "ecological_constraints": -0.5
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "A Theory of the Consumption Function (1957)",
+      "The Role of Monetary Policy (1968)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "historical"
+  },
+  {
+    "id": "george_stigler",
+    "name": "George J. Stigler",
+    "historical_affiliation": "chicago",
+    "summary": "Profil doctrinal de George J. Stigler, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": 0.9,
+      "subjective_value": 0.9,
+      "knowledge_decentralization": 0.4,
+      "equilibrium_orientation": 0.9,
+      "uncertainty_fundamental": -0.7,
+      "money_endogeneity": -0.5,
+      "aggregate_demand_centrality": -0.5,
+      "institutions_causal": 0.3,
+      "state_scope": -0.9,
+      "rule_bound_policy": 0.7,
+      "redistribution_priority": -0.8,
+      "ecological_constraints": -0.5
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "The Theory of Price (1946)",
+      "The Theory of Economic Regulation (1971)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "historical"
+  },
+  {
+    "id": "gary_becker",
+    "name": "Gary S. Becker",
+    "historical_affiliation": "chicago",
+    "summary": "Profil doctrinal de Gary S. Becker, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": 1.0,
+      "subjective_value": 0.9,
+      "knowledge_decentralization": 0.4,
+      "equilibrium_orientation": 0.9,
+      "uncertainty_fundamental": -0.7,
+      "money_endogeneity": -0.5,
+      "aggregate_demand_centrality": -0.5,
+      "institutions_causal": -0.1,
+      "state_scope": -0.8,
+      "rule_bound_policy": 0.7,
+      "redistribution_priority": -0.8,
+      "ecological_constraints": -0.5
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "The Economic Approach to Human Behavior (1976)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "modern_contemporary"
+  },
+  {
+    "id": "robert_lucas",
+    "name": "Robert E. Lucas Jr.",
+    "historical_affiliation": "new_classical",
+    "summary": "Profil doctrinal de Robert E. Lucas Jr., codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": 0.9,
+      "subjective_value": 0.9,
+      "knowledge_decentralization": 0.2,
+      "equilibrium_orientation": 1.0,
+      "uncertainty_fundamental": -0.8,
+      "money_endogeneity": -0.4,
+      "aggregate_demand_centrality": -0.8,
+      "institutions_causal": 0.0,
+      "state_scope": -0.5,
+      "rule_bound_policy": 0.7,
+      "redistribution_priority": -0.5,
+      "ecological_constraints": -0.5
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "Econometric Policy Evaluation: A Critique (1976)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "modern_contemporary"
+  },
+  {
+    "id": "thomas_sargent",
+    "name": "Thomas J. Sargent",
+    "historical_affiliation": "new_classical",
+    "summary": "Profil doctrinal de Thomas J. Sargent, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": 0.9,
+      "subjective_value": 0.9,
+      "knowledge_decentralization": 0.2,
+      "equilibrium_orientation": 1,
+      "uncertainty_fundamental": -0.8,
+      "money_endogeneity": -0.4,
+      "aggregate_demand_centrality": -0.8,
+      "institutions_causal": 0.0,
+      "state_scope": -0.5,
+      "rule_bound_policy": 0.6,
+      "redistribution_priority": -0.5,
+      "ecological_constraints": -0.5
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "Macroeconomic Theory (1979)",
+      "Dynamic Macroeconomic Theory (1987)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "modern_contemporary"
+  },
+  {
+    "id": "edward_prescott",
+    "name": "Edward C. Prescott",
+    "historical_affiliation": "new_classical",
+    "summary": "Profil doctrinal de Edward C. Prescott, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": 0.9,
+      "subjective_value": 0.9,
+      "knowledge_decentralization": 0.2,
+      "equilibrium_orientation": 1,
+      "uncertainty_fundamental": -0.8,
+      "money_endogeneity": -0.4,
+      "aggregate_demand_centrality": -1.0,
+      "institutions_causal": 0.0,
+      "state_scope": -0.5,
+      "rule_bound_policy": 0.6,
+      "redistribution_priority": -0.5,
+      "ecological_constraints": -0.5
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "Theory Ahead of Business-Cycle Measurement (1986)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "modern_contemporary"
+  },
+  {
+    "id": "robert_barro",
+    "name": "Robert J. Barro",
+    "historical_affiliation": "new_classical",
+    "summary": "Profil doctrinal de Robert J. Barro, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": 0.9,
+      "subjective_value": 0.9,
+      "knowledge_decentralization": 0.2,
+      "equilibrium_orientation": 1,
+      "uncertainty_fundamental": -0.8,
+      "money_endogeneity": -0.4,
+      "aggregate_demand_centrality": -0.8,
+      "institutions_causal": 0.0,
+      "state_scope": -0.7,
+      "rule_bound_policy": 0.6,
+      "redistribution_priority": -0.5,
+      "ecological_constraints": -0.5
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "Are Government Bonds Net Wealth? (1974)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "modern_contemporary"
+  },
+  {
+    "id": "joseph_stiglitz",
+    "name": "Joseph E. Stiglitz",
+    "historical_affiliation": "new_keynesian",
+    "summary": "Profil doctrinal de Joseph E. Stiglitz, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": 0.7,
+      "subjective_value": 0.8,
+      "knowledge_decentralization": 0.1,
+      "equilibrium_orientation": 0.8,
+      "uncertainty_fundamental": -0.3,
+      "money_endogeneity": 0.2,
+      "aggregate_demand_centrality": 0.8,
+      "institutions_causal": 0.6,
+      "state_scope": 0.5,
+      "rule_bound_policy": 0.0,
+      "redistribution_priority": 0.5,
+      "ecological_constraints": -0.3
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "Information and the Change in the Paradigm in Economics (2002)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "modern_contemporary"
+  },
+  {
+    "id": "paul_krugman",
+    "name": "Paul Krugman",
+    "historical_affiliation": "new_keynesian",
+    "summary": "Profil doctrinal de Paul Krugman, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": 0.7,
+      "subjective_value": 0.8,
+      "knowledge_decentralization": 0.1,
+      "equilibrium_orientation": 0.8,
+      "uncertainty_fundamental": -0.3,
+      "money_endogeneity": 0.2,
+      "aggregate_demand_centrality": 0.9,
+      "institutions_causal": 0.2,
+      "state_scope": 0.4,
+      "rule_bound_policy": 0.0,
+      "redistribution_priority": 0.3,
+      "ecological_constraints": -0.3
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "Increasing Returns and Economic Geography (1991)",
+      "The Return of Depression Economics (1999)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "modern_contemporary"
+  },
+  {
+    "id": "thorstein_veblen",
+    "name": "Thorstein Veblen",
+    "historical_affiliation": "old_institutional",
+    "summary": "Profil doctrinal de Thorstein Veblen, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": -0.9,
+      "subjective_value": -0.3,
+      "knowledge_decentralization": -0.5,
+      "equilibrium_orientation": -0.8,
+      "uncertainty_fundamental": 0.7,
+      "money_endogeneity": 0.6,
+      "aggregate_demand_centrality": 0.4,
+      "institutions_causal": 1.0,
+      "state_scope": 0.5,
+      "rule_bound_policy": -0.3,
+      "redistribution_priority": 0.6,
+      "ecological_constraints": 0.2
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "The Theory of the Leisure Class (1899)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "historical"
+  },
+  {
+    "id": "john_commons",
+    "name": "John R. Commons",
+    "historical_affiliation": "old_institutional",
+    "summary": "Profil doctrinal de John R. Commons, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": -0.7,
+      "subjective_value": -0.3,
+      "knowledge_decentralization": -0.5,
+      "equilibrium_orientation": -0.8,
+      "uncertainty_fundamental": 0.7,
+      "money_endogeneity": 0.6,
+      "aggregate_demand_centrality": 0.4,
+      "institutions_causal": 1.0,
+      "state_scope": 0.5,
+      "rule_bound_policy": -0.3,
+      "redistribution_priority": 0.6,
+      "ecological_constraints": 0.2
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "Institutional Economics (1934)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "historical"
+  },
+  {
+    "id": "wesley_mitchell",
+    "name": "Wesley C. Mitchell",
+    "historical_affiliation": "old_institutional",
+    "summary": "Profil doctrinal de Wesley C. Mitchell, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": -0.7,
+      "subjective_value": -0.3,
+      "knowledge_decentralization": -0.5,
+      "equilibrium_orientation": -1.0,
+      "uncertainty_fundamental": 0.7,
+      "money_endogeneity": 0.6,
+      "aggregate_demand_centrality": 0.4,
+      "institutions_causal": 1,
+      "state_scope": 0.5,
+      "rule_bound_policy": -0.3,
+      "redistribution_priority": 0.6,
+      "ecological_constraints": 0.2
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "Business Cycles (1913)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "historical"
+  },
+  {
+    "id": "john_galbraith",
+    "name": "John Kenneth Galbraith",
+    "historical_affiliation": "old_institutional",
+    "summary": "Profil doctrinal de John Kenneth Galbraith, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": -0.7,
+      "subjective_value": -0.3,
+      "knowledge_decentralization": -0.5,
+      "equilibrium_orientation": -0.8,
+      "uncertainty_fundamental": 0.7,
+      "money_endogeneity": 0.6,
+      "aggregate_demand_centrality": 0.4,
+      "institutions_causal": 1.0,
+      "state_scope": 0.7,
+      "rule_bound_policy": -0.3,
+      "redistribution_priority": 0.6,
+      "ecological_constraints": 0.2
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "The New Industrial State (1967)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "modern_contemporary"
+  },
+  {
+    "id": "ronald_coase",
+    "name": "Ronald H. Coase",
+    "historical_affiliation": "new_institutional",
+    "summary": "Profil doctrinal de Ronald H. Coase, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": 0.7,
+      "subjective_value": 0.7,
+      "knowledge_decentralization": 0.6,
+      "equilibrium_orientation": 0.5,
+      "uncertainty_fundamental": -0.2,
+      "money_endogeneity": -0.1,
+      "aggregate_demand_centrality": -0.2,
+      "institutions_causal": 1.0,
+      "state_scope": -0.3,
+      "rule_bound_policy": 0.8,
+      "redistribution_priority": -0.3,
+      "ecological_constraints": -0.3
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "The Nature of the Firm (1937)",
+      "The Problem of Social Cost (1960)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "historical"
+  },
+  {
+    "id": "oliver_williamson",
+    "name": "Oliver E. Williamson",
+    "historical_affiliation": "new_institutional",
+    "summary": "Profil doctrinal de Oliver E. Williamson, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": 0.7,
+      "subjective_value": 0.7,
+      "knowledge_decentralization": 0.6,
+      "equilibrium_orientation": 0.5,
+      "uncertainty_fundamental": -0.2,
+      "money_endogeneity": -0.1,
+      "aggregate_demand_centrality": -0.2,
+      "institutions_causal": 1.0,
+      "state_scope": -0.4,
+      "rule_bound_policy": 0.8,
+      "redistribution_priority": -0.3,
+      "ecological_constraints": -0.3
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "The Economic Institutions of Capitalism (1985)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "modern_contemporary"
+  },
+  {
+    "id": "douglass_north",
+    "name": "Douglass C. North",
+    "historical_affiliation": "new_institutional",
+    "summary": "Profil doctrinal de Douglass C. North, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": 0.7,
+      "subjective_value": 0.7,
+      "knowledge_decentralization": 0.6,
+      "equilibrium_orientation": 0.0,
+      "uncertainty_fundamental": -0.2,
+      "money_endogeneity": -0.1,
+      "aggregate_demand_centrality": -0.2,
+      "institutions_causal": 1.0,
+      "state_scope": -0.4,
+      "rule_bound_policy": 0.8,
+      "redistribution_priority": -0.3,
+      "ecological_constraints": -0.3
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "Institutions, Institutional Change and Economic Performance (1990)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "modern_contemporary"
+  },
+  {
+    "id": "elinor_ostrom",
+    "name": "Elinor Ostrom",
+    "historical_affiliation": "new_institutional",
+    "summary": "Profil doctrinal de Elinor Ostrom, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": 0.7,
+      "subjective_value": 0.7,
+      "knowledge_decentralization": 0.8,
+      "equilibrium_orientation": 0.5,
+      "uncertainty_fundamental": -0.2,
+      "money_endogeneity": -0.1,
+      "aggregate_demand_centrality": -0.2,
+      "institutions_causal": 1.0,
+      "state_scope": -0.1,
+      "rule_bound_policy": 0.8,
+      "redistribution_priority": -0.3,
+      "ecological_constraints": -0.3
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "Governing the Commons (1990)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "modern_contemporary"
+  },
+  {
+    "id": "walter_eucken",
+    "name": "Walter Eucken",
+    "historical_affiliation": "ordoliberal",
+    "summary": "Profil doctrinal de Walter Eucken, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": 0.6,
+      "subjective_value": 0.7,
+      "knowledge_decentralization": 0.7,
+      "equilibrium_orientation": 0.5,
+      "uncertainty_fundamental": -0.2,
+      "money_endogeneity": -0.3,
+      "aggregate_demand_centrality": -0.4,
+      "institutions_causal": 1.0,
+      "state_scope": -0.4,
+      "rule_bound_policy": 1.0,
+      "redistribution_priority": -0.2,
+      "ecological_constraints": -0.2
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "Grundsätze der Wirtschaftspolitik (1952)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "historical"
+  },
+  {
+    "id": "wilhelm_ropke",
+    "name": "Wilhelm Röpke",
+    "historical_affiliation": "ordoliberal",
+    "summary": "Profil doctrinal de Wilhelm Röpke, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": 0.6,
+      "subjective_value": 0.7,
+      "knowledge_decentralization": 0.7,
+      "equilibrium_orientation": 0.5,
+      "uncertainty_fundamental": -0.2,
+      "money_endogeneity": -0.3,
+      "aggregate_demand_centrality": -0.4,
+      "institutions_causal": 0.8,
+      "state_scope": -0.3,
+      "rule_bound_policy": 1,
+      "redistribution_priority": 0.0,
+      "ecological_constraints": -0.2
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "The Social Crisis of Our Time (1942)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "historical"
+  },
+  {
+    "id": "james_buchanan",
+    "name": "James M. Buchanan",
+    "historical_affiliation": "public_choice",
+    "summary": "Profil doctrinal de James M. Buchanan, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": 1.0,
+      "subjective_value": 0.8,
+      "knowledge_decentralization": 0.7,
+      "equilibrium_orientation": 0.6,
+      "uncertainty_fundamental": -0.2,
+      "money_endogeneity": -0.4,
+      "aggregate_demand_centrality": -0.6,
+      "institutions_causal": 0.7,
+      "state_scope": -0.9,
+      "rule_bound_policy": 1.0,
+      "redistribution_priority": -0.7,
+      "ecological_constraints": -0.4
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "The Calculus of Consent (1962)",
+      "The Limits of Liberty (1975)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "modern_contemporary"
+  },
+  {
+    "id": "gordon_tullock",
+    "name": "Gordon Tullock",
+    "historical_affiliation": "public_choice",
+    "summary": "Profil doctrinal de Gordon Tullock, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": 1,
+      "subjective_value": 0.8,
+      "knowledge_decentralization": 0.7,
+      "equilibrium_orientation": 0.6,
+      "uncertainty_fundamental": -0.2,
+      "money_endogeneity": -0.4,
+      "aggregate_demand_centrality": -0.6,
+      "institutions_causal": 0.7,
+      "state_scope": -0.9,
+      "rule_bound_policy": 0.9,
+      "redistribution_priority": -0.7,
+      "ecological_constraints": -0.4
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "The Politics of Bureaucracy (1965)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "modern_contemporary"
+  },
+  {
+    "id": "piero_sraffa",
+    "name": "Piero Sraffa",
+    "historical_affiliation": "sraffian",
+    "summary": "Profil doctrinal de Piero Sraffa, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": -0.5,
+      "subjective_value": -1.0,
+      "knowledge_decentralization": -0.2,
+      "equilibrium_orientation": -0.5,
+      "uncertainty_fundamental": 0.5,
+      "money_endogeneity": 0.6,
+      "aggregate_demand_centrality": 0.7,
+      "institutions_causal": 0.2,
+      "state_scope": 0.4,
+      "rule_bound_policy": -0.3,
+      "redistribution_priority": 0.5,
+      "ecological_constraints": -0.2
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "Production of Commodities by Means of Commodities (1960)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "modern_contemporary"
+  },
+  {
+    "id": "luigi_pasinetti",
+    "name": "Luigi L. Pasinetti",
+    "historical_affiliation": "sraffian",
+    "summary": "Profil doctrinal de Luigi L. Pasinetti, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": -0.5,
+      "subjective_value": -1,
+      "knowledge_decentralization": -0.2,
+      "equilibrium_orientation": -0.8,
+      "uncertainty_fundamental": 0.5,
+      "money_endogeneity": 0.6,
+      "aggregate_demand_centrality": 0.7,
+      "institutions_causal": 0.4,
+      "state_scope": 0.4,
+      "rule_bound_policy": -0.3,
+      "redistribution_priority": 0.5,
+      "ecological_constraints": -0.2
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "Lectures on the Theory of Production (1977)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "modern_contemporary"
+  },
+  {
+    "id": "herbert_simon",
+    "name": "Herbert A. Simon",
+    "historical_affiliation": "behavioral",
+    "summary": "Profil doctrinal de Herbert A. Simon, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": 0.3,
+      "subjective_value": 0.5,
+      "knowledge_decentralization": -0.2,
+      "equilibrium_orientation": -0.8,
+      "uncertainty_fundamental": 0.6,
+      "money_endogeneity": 0.0,
+      "aggregate_demand_centrality": 0.1,
+      "institutions_causal": 0.4,
+      "state_scope": 0.2,
+      "rule_bound_policy": -0.1,
+      "redistribution_priority": 0.2,
+      "ecological_constraints": -0.1
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "A Behavioral Model of Rational Choice (1955)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "historical"
+  },
+  {
+    "id": "daniel_kahneman",
+    "name": "Daniel Kahneman",
+    "historical_affiliation": "behavioral",
+    "summary": "Profil doctrinal de Daniel Kahneman, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": 0.4,
+      "subjective_value": 0.5,
+      "knowledge_decentralization": -0.2,
+      "equilibrium_orientation": -0.9,
+      "uncertainty_fundamental": 0.6,
+      "money_endogeneity": 0.0,
+      "aggregate_demand_centrality": 0.1,
+      "institutions_causal": 0.4,
+      "state_scope": 0.2,
+      "rule_bound_policy": -0.1,
+      "redistribution_priority": 0.2,
+      "ecological_constraints": -0.1
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "Prospect Theory (with Amos Tversky, 1979)",
+      "Thinking, Fast and Slow (2011)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "modern_contemporary"
+  },
+  {
+    "id": "richard_thaler",
+    "name": "Richard H. Thaler",
+    "historical_affiliation": "behavioral",
+    "summary": "Profil doctrinal de Richard H. Thaler, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": 0.4,
+      "subjective_value": 0.5,
+      "knowledge_decentralization": -0.2,
+      "equilibrium_orientation": -0.7,
+      "uncertainty_fundamental": 0.6,
+      "money_endogeneity": 0.0,
+      "aggregate_demand_centrality": 0.1,
+      "institutions_causal": 0.4,
+      "state_scope": 0.3,
+      "rule_bound_policy": -0.1,
+      "redistribution_priority": 0.2,
+      "ecological_constraints": -0.1
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "Misbehaving (2015)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "modern_contemporary"
+  },
+  {
+    "id": "nicholas_georgescu_roegen",
+    "name": "Nicholas Georgescu-Roegen",
+    "historical_affiliation": "ecological",
+    "summary": "Profil doctrinal de Nicholas Georgescu-Roegen, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": -0.4,
+      "subjective_value": -0.3,
+      "knowledge_decentralization": -0.4,
+      "equilibrium_orientation": -0.8,
+      "uncertainty_fundamental": 0.8,
+      "money_endogeneity": 0.6,
+      "aggregate_demand_centrality": 0.5,
+      "institutions_causal": 0.8,
+      "state_scope": 0.8,
+      "rule_bound_policy": -0.4,
+      "redistribution_priority": 0.8,
+      "ecological_constraints": 1.0
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "The Entropy Law and the Economic Process (1971)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "modern_contemporary"
+  },
+  {
+    "id": "herman_daly",
+    "name": "Herman E. Daly",
+    "historical_affiliation": "ecological",
+    "summary": "Profil doctrinal de Herman E. Daly, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": -0.4,
+      "subjective_value": -0.3,
+      "knowledge_decentralization": -0.4,
+      "equilibrium_orientation": -0.8,
+      "uncertainty_fundamental": 0.8,
+      "money_endogeneity": 0.6,
+      "aggregate_demand_centrality": 0.5,
+      "institutions_causal": 0.8,
+      "state_scope": 0.7,
+      "rule_bound_policy": -0.4,
+      "redistribution_priority": 0.8,
+      "ecological_constraints": 1.0
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "Beyond Growth (1996)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "modern_contemporary"
+  },
+  {
+    "id": "abba_lerner",
+    "name": "Abba P. Lerner",
+    "historical_affiliation": "mmt",
+    "summary": "Profil doctrinal de Abba P. Lerner, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": 0.0,
+      "subjective_value": 0.2,
+      "knowledge_decentralization": -0.3,
+      "equilibrium_orientation": -0.7,
+      "uncertainty_fundamental": 0.9,
+      "money_endogeneity": 1,
+      "aggregate_demand_centrality": 1.0,
+      "institutions_causal": 0.5,
+      "state_scope": 0.9,
+      "rule_bound_policy": -0.8,
+      "redistribution_priority": 0.9,
+      "ecological_constraints": 0.2
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "Functional Finance and the Federal Debt (1943)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "historical"
+  },
+  {
+    "id": "randall_wray",
+    "name": "L. Randall Wray",
+    "historical_affiliation": "mmt",
+    "summary": "Profil doctrinal de L. Randall Wray, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": 0.0,
+      "subjective_value": 0.2,
+      "knowledge_decentralization": -0.3,
+      "equilibrium_orientation": -0.7,
+      "uncertainty_fundamental": 0.9,
+      "money_endogeneity": 1.0,
+      "aggregate_demand_centrality": 1,
+      "institutions_causal": 0.5,
+      "state_scope": 0.8,
+      "rule_bound_policy": -0.7,
+      "redistribution_priority": 0.9,
+      "ecological_constraints": 0.2
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "Understanding Modern Money (1998)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "modern_contemporary"
+  },
+  {
+    "id": "stephanie_kelton",
+    "name": "Stephanie Kelton",
+    "historical_affiliation": "mmt",
+    "summary": "Profil doctrinal de Stephanie Kelton, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": 0.0,
+      "subjective_value": 0.2,
+      "knowledge_decentralization": -0.3,
+      "equilibrium_orientation": -0.7,
+      "uncertainty_fundamental": 0.9,
+      "money_endogeneity": 1,
+      "aggregate_demand_centrality": 1,
+      "institutions_causal": 0.5,
+      "state_scope": 0.9,
+      "rule_bound_policy": -0.7,
+      "redistribution_priority": 0.8,
+      "ecological_constraints": 0.2
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "The Deficit Myth (2020)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "modern_contemporary"
+  },
+  {
+    "id": "raul_prebisch",
+    "name": "Raúl Prebisch",
+    "historical_affiliation": "developmentalist",
+    "summary": "Profil doctrinal de Raúl Prebisch, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": -0.3,
+      "subjective_value": 0.1,
+      "knowledge_decentralization": -0.4,
+      "equilibrium_orientation": -0.6,
+      "uncertainty_fundamental": 0.8,
+      "money_endogeneity": 0.7,
+      "aggregate_demand_centrality": 0.8,
+      "institutions_causal": 1.0,
+      "state_scope": 0.9,
+      "rule_bound_policy": -0.6,
+      "redistribution_priority": 0.6,
+      "ecological_constraints": 0.3
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "The Economic Development of Latin America and Its Principal Problems (1950)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "historical"
+  },
+  {
+    "id": "albert_hirschman",
+    "name": "Albert O. Hirschman",
+    "historical_affiliation": "developmentalist",
+    "summary": "Profil doctrinal de Albert O. Hirschman, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": -0.3,
+      "subjective_value": 0.1,
+      "knowledge_decentralization": -0.4,
+      "equilibrium_orientation": -0.8,
+      "uncertainty_fundamental": 0.8,
+      "money_endogeneity": 0.7,
+      "aggregate_demand_centrality": 0.8,
+      "institutions_causal": 1.0,
+      "state_scope": 0.9,
+      "rule_bound_policy": -0.6,
+      "redistribution_priority": 0.6,
+      "ecological_constraints": 0.3
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "The Strategy of Economic Development (1958)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "historical"
+  },
+  {
+    "id": "dani_rodrik",
+    "name": "Dani Rodrik",
+    "historical_affiliation": "developmentalist",
+    "summary": "Profil doctrinal de Dani Rodrik, codé comme entité autonome et comparé aux écoles sans forcer l’identité entre affiliation historique et proximité calculée.",
+    "vector": {
+      "method_individualism": -0.3,
+      "subjective_value": 0.1,
+      "knowledge_decentralization": 0.3,
+      "equilibrium_orientation": -0.6,
+      "uncertainty_fundamental": 0.8,
+      "money_endogeneity": 0.7,
+      "aggregate_demand_centrality": 0.8,
+      "institutions_causal": 1.0,
+      "state_scope": 0.5,
+      "rule_bound_policy": -0.6,
+      "redistribution_priority": 0.6,
+      "ecological_constraints": 0.3
+    },
+    "sigma": {
+      "method_individualism": 0.18,
+      "subjective_value": 0.18,
+      "knowledge_decentralization": 0.18,
+      "equilibrium_orientation": 0.18,
+      "uncertainty_fundamental": 0.18,
+      "money_endogeneity": 0.18,
+      "aggregate_demand_centrality": 0.18,
+      "institutions_causal": 0.18,
+      "state_scope": 0.18,
+      "rule_bound_policy": 0.18,
+      "redistribution_priority": 0.18,
+      "ecological_constraints": 0.18
+    },
+    "works": [
+      "One Economics, Many Recipes (2007)"
+    ],
+    "status": "seed_research_profile",
+    "coding_note": "Codage V0.1 à valider par au moins deux évaluateurs indépendants; les écarts irréductibles devront être conservés comme incertitude.",
+    "era": "modern_contemporary"
+  }
+]

@@ -1,0 +1,148 @@
+[
+  {
+    "id": "keynes_treatise",
+    "parent_id": "john_maynard_keynes",
+    "label": "Keynes — période Treatise",
+    "period": "1923–1932",
+    "vector": {
+      "method_individualism": 0.3,
+      "subjective_value": 0.4,
+      "knowledge_decentralization": -0.1,
+      "equilibrium_orientation": 0.2,
+      "uncertainty_fundamental": 0.7,
+      "money_endogeneity": 0.3,
+      "aggregate_demand_centrality": 0.65,
+      "institutions_causal": 0.2,
+      "state_scope": 0.5,
+      "rule_bound_policy": -0.2,
+      "redistribution_priority": 0.4,
+      "ecological_constraints": -0.2
+    },
+    "references": [
+      "A Treatise on Money (1930)"
+    ],
+    "status": "seed_variant"
+  },
+  {
+    "id": "keynes_general_theory",
+    "parent_id": "john_maynard_keynes",
+    "label": "Keynes — General Theory et après",
+    "period": "1933–1946",
+    "vector": {
+      "method_individualism": 0.3,
+      "subjective_value": 0.4,
+      "knowledge_decentralization": -0.1,
+      "equilibrium_orientation": -0.2,
+      "uncertainty_fundamental": 1.0,
+      "money_endogeneity": 0.5,
+      "aggregate_demand_centrality": 1.0,
+      "institutions_causal": 0.2,
+      "state_scope": 0.5,
+      "rule_bound_policy": -0.2,
+      "redistribution_priority": 0.4,
+      "ecological_constraints": -0.2
+    },
+    "references": [
+      "The General Theory (1936)"
+    ],
+    "status": "seed_variant"
+  },
+  {
+    "id": "hayek_cycle",
+    "parent_id": "friedrich_hayek",
+    "label": "Hayek — théorie des cycles",
+    "period": "1928–1941",
+    "vector": {
+      "method_individualism": 1,
+      "subjective_value": 1,
+      "knowledge_decentralization": 1.0,
+      "equilibrium_orientation": -0.3,
+      "uncertainty_fundamental": 0.8,
+      "money_endogeneity": -0.9,
+      "aggregate_demand_centrality": -1.0,
+      "institutions_causal": 0.8,
+      "state_scope": -0.7,
+      "rule_bound_policy": 0.8,
+      "redistribution_priority": -0.8,
+      "ecological_constraints": -0.5
+    },
+    "references": [
+      "Prices and Production (1931)"
+    ],
+    "status": "seed_variant"
+  },
+  {
+    "id": "hayek_order",
+    "parent_id": "friedrich_hayek",
+    "label": "Hayek — ordre spontané et institutions",
+    "period": "1944–1988",
+    "vector": {
+      "method_individualism": 1,
+      "subjective_value": 1,
+      "knowledge_decentralization": 1.0,
+      "equilibrium_orientation": -0.7,
+      "uncertainty_fundamental": 0.8,
+      "money_endogeneity": -0.8,
+      "aggregate_demand_centrality": -0.9,
+      "institutions_causal": 1.0,
+      "state_scope": -0.7,
+      "rule_bound_policy": 0.9,
+      "redistribution_priority": -0.8,
+      "ecological_constraints": -0.5
+    },
+    "references": [
+      "The Use of Knowledge in Society (1945)",
+      "Law, Legislation and Liberty (1973–1979)"
+    ],
+    "status": "seed_variant"
+  },
+  {
+    "id": "friedman_monetary",
+    "parent_id": "milton_friedman",
+    "label": "Friedman — programme monétaire",
+    "period": "1956–1970",
+    "vector": {
+      "method_individualism": 0.8,
+      "subjective_value": 0.8,
+      "knowledge_decentralization": 0.3,
+      "equilibrium_orientation": 0.8,
+      "uncertainty_fundamental": -0.5,
+      "money_endogeneity": -0.9,
+      "aggregate_demand_centrality": -0.4,
+      "institutions_causal": 0.1,
+      "state_scope": -0.8,
+      "rule_bound_policy": 1.0,
+      "redistribution_priority": -0.5,
+      "ecological_constraints": -0.5
+    },
+    "references": [
+      "The Quantity Theory of Money: A Restatement (1956)",
+      "The Role of Monetary Policy (1968)"
+    ],
+    "status": "seed_variant"
+  },
+  {
+    "id": "stiglitz_information",
+    "parent_id": "joseph_stiglitz",
+    "label": "Stiglitz — économie de l’information",
+    "period": "1970–2000",
+    "vector": {
+      "method_individualism": 0.7,
+      "subjective_value": 0.8,
+      "knowledge_decentralization": 0.1,
+      "equilibrium_orientation": 0.8,
+      "uncertainty_fundamental": -0.3,
+      "money_endogeneity": 0.2,
+      "aggregate_demand_centrality": 0.8,
+      "institutions_causal": 0.75,
+      "state_scope": 0.35,
+      "rule_bound_policy": 0.0,
+      "redistribution_priority": 0.2,
+      "ecological_constraints": -0.3
+    },
+    "references": [
+      "Information and the Change in the Paradigm in Economics (2002)"
+    ],
+    "status": "seed_variant"
+  }
+]

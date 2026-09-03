@@ -1,0 +1,110 @@
+[
+  {
+    "id": "method_individualism",
+    "label": "Individualisme méthodologique",
+    "space": "analytic",
+    "subspace": "methodology",
+    "low": "explications holistes/structurelles",
+    "high": "explications centrées sur les choix individuels",
+    "description": "Poids accordé aux mécanismes individuels pour expliquer les phénomènes économiques agrégés."
+  },
+  {
+    "id": "subjective_value",
+    "label": "Valeur subjective et marginale",
+    "space": "analytic",
+    "subspace": "micro",
+    "low": "valeur objective, coût ou classe",
+    "high": "valeur subjective et marginale",
+    "description": "Degré auquel la valeur est comprise comme issue des préférences et arbitrages marginaux des agents."
+  },
+  {
+    "id": "knowledge_decentralization",
+    "label": "Connaissance dispersée",
+    "space": "analytic",
+    "subspace": "institutions",
+    "low": "information largement centralisable",
+    "high": "connaissance locale, tacite et dispersée",
+    "description": "Importance attribuée à la dispersion de l'information et aux limites de la planification centrale."
+  },
+  {
+    "id": "equilibrium_orientation",
+    "label": "Orientation vers l’équilibre",
+    "space": "analytic",
+    "subspace": "methodology",
+    "low": "processus historiques, déséquilibres persistants",
+    "high": "équilibre comme outil explicatif central",
+    "description": "Place donnée aux concepts d'équilibre et d'optimisation par rapport aux processus hors équilibre."
+  },
+  {
+    "id": "uncertainty_fundamental",
+    "label": "Incertitude fondamentale",
+    "space": "analytic",
+    "subspace": "macro",
+    "low": "risque probabilisable et anticipations modélisables",
+    "high": "incertitude non réductible et conventions",
+    "description": "Importance de l'incertitude non probabilisable dans l'investissement, la finance et les anticipations."
+  },
+  {
+    "id": "money_endogeneity",
+    "label": "Endogénéité et non-neutralité de la monnaie",
+    "space": "analytic",
+    "subspace": "money",
+    "low": "monnaie surtout exogène/neutre à long terme",
+    "high": "monnaie endogène et effets réels persistants",
+    "description": "Conception de la création monétaire et de la capacité de la monnaie à influencer durablement l'économie réelle."
+  },
+  {
+    "id": "aggregate_demand_centrality",
+    "label": "Centralité de la demande agrégée",
+    "space": "analytic",
+    "subspace": "macro",
+    "low": "offre, prix relatifs et ajustements dominants",
+    "high": "demande agrégée centrale pour activité et emploi",
+    "description": "Importance causale attribuée à la demande agrégée dans les fluctuations et le niveau d'emploi."
+  },
+  {
+    "id": "institutions_causal",
+    "label": "Institutions comme causes économiques",
+    "space": "analytic",
+    "subspace": "institutions",
+    "low": "institutions comme arrière-plan secondaire",
+    "high": "institutions au cœur de l’explication",
+    "description": "Place causale des règles formelles, normes, organisations et trajectoires historiques."
+  },
+  {
+    "id": "state_scope",
+    "label": "Périmètre économique de l’État",
+    "space": "normative",
+    "subspace": "policy",
+    "low": "État économique minimal",
+    "high": "État économique étendu",
+    "description": "Préférence normative concernant l'étendue de l'intervention, de la production et de la coordination publiques."
+  },
+  {
+    "id": "rule_bound_policy",
+    "label": "Règles versus discrétion",
+    "space": "normative",
+    "subspace": "policy",
+    "low": "discrétion et adaptation conjoncturelle",
+    "high": "règles stables et contraintes institutionnelles",
+    "description": "Préférence pour des politiques liées par des règles plutôt que discrétionnaires."
+  },
+  {
+    "id": "redistribution_priority",
+    "label": "Priorité redistributive",
+    "space": "normative",
+    "subspace": "distribution",
+    "low": "redistribution faible et primat des incitations",
+    "high": "réduction active des inégalités",
+    "description": "Importance normative accordée à la redistribution et à la correction des inégalités de revenu ou patrimoine."
+  },
+  {
+    "id": "ecological_constraints",
+    "label": "Contraintes biophysiques",
+    "space": "normative",
+    "subspace": "ecology",
+    "low": "croissance et substituabilité fortes",
+    "high": "limites biophysiques structurantes",
+    "description": "Importance accordée aux limites écologiques, à l'entropie et aux contraintes matérielles dans l'analyse et la politique économique."
+  }
+]

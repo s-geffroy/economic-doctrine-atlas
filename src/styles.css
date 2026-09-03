@@ -1,0 +1,336 @@
+/* ==========================================================================
+   Atlas doctrinal — feuille de style.
+
+   Les jetons, les polices et la bascule de theme sont ceux de ligne de crete
+   (src/static/css/site.css du site), afin que l'Atlas se lise comme une piece
+   du site et non comme une application etrangere posee sur le domaine.
+
+   Les polices sont servies par le site a un chemin stable : `copier_assets()`
+   copie static/fonts/ vers /assets/fonts/ SANS hachage, contrairement au CSS
+   et au JS. On peut donc les referencer en absolu depuis ici.
+   ========================================================================== */
+
+@font-face {
+  font-family: "Plex Sans";
+  src: url("/assets/fonts/IBMPlexSans-Regular-Latin1.woff2") format("woff2");
+  font-weight: 400; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: "Plex Sans";
+  src: url("/assets/fonts/IBMPlexSans-SemiBold-Latin1.woff2") format("woff2");
+  font-weight: 600; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: "Plex Sans";
+  src: url("/assets/fonts/IBMPlexSans-Italic-Latin1.woff2") format("woff2");
+  font-weight: 400; font-style: italic; font-display: swap;
+}
+@font-face {
+  font-family: "Plex Mono";
+  src: url("/assets/fonts/IBMPlexMono-Regular-Latin1.woff2") format("woff2");
+  font-weight: 400; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: "Plex Mono";
+  src: url("/assets/fonts/IBMPlexMono-SemiBold-Latin1.woff2") format("woff2");
+  font-weight: 600; font-style: normal; font-display: swap;
+}
+
+/* --- Jetons --------------------------------------------------------------- */
+
+:root {
+  --fond:        #0B0E0F;
+  --fond-doux:   #0F1416;
+  --surface:     #12171A;
+  --surface-vive:#171E22;
+  --filet:       #1F2A2E;
+  --filet-vif:   #2C3B41;
+  --texte:       #D6DEE1;
+  --texte-fort:  #F2F6F7;
+  --attenue:     #7C8C92;
+  --accent:      #5EE6A8;
+  --accent-doux: rgba(94, 230, 168, .12);
+  --accent-2:    #6FD3E8;
+  --alerte:      #E8B36F;
+
+  --police-sans: "Plex Sans", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --police-mono: "Plex Mono", ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+
+  --rangee: 76rem;
+  --gouttiere: clamp(1.25rem, 4vw, 2.75rem);
+  --rayon: 3px;
+  --transition: 140ms ease;
+
+  color-scheme: dark;
+}
+
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) {
+    --fond:        #F7F8F7;
+    --fond-doux:   #FFFFFF;
+    --surface:     #FFFFFF;
+    --surface-vive:#FFFFFF;
+    --filet:       #E1E6E4;
+    --filet-vif:   #C6D0CD;
+    --texte:       #10161A;
+    --texte-fort:  #05090B;
+    --attenue:     #566468;
+    --accent:      #06714E;
+    --accent-doux: rgba(6, 113, 78, .09);
+    --accent-2:    #0E6478;
+    --alerte:      #8A5A12;
+    color-scheme: light;
+  }
+}
+
+:root[data-theme="light"] {
+  --fond:        #F7F8F7;
+  --fond-doux:   #FFFFFF;
+  --surface:     #FFFFFF;
+  --surface-vive:#FFFFFF;
+  --filet:       #E1E6E4;
+  --filet-vif:   #C6D0CD;
+  --texte:       #10161A;
+  --texte-fort:  #05090B;
+  --attenue:     #566468;
+  --accent:      #06714E;
+  --accent-doux: rgba(6, 113, 78, .09);
+  --accent-2:    #0E6478;
+  --alerte:      #8A5A12;
+  color-scheme: light;
+}
+
+/* --- Socle ---------------------------------------------------------------- */
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--fond);
+  color: var(--texte);
+  font-family: var(--police-sans);
+  font-size: 1rem;
+  line-height: 1.65;
+  font-synthesis: none;
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: inherit; }
+a:hover { color: var(--accent); }
+
+button { font: inherit; color: inherit; }
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+.app { min-height: 100vh; display: flex; flex-direction: column; }
+
+/* --- En-tete -------------------------------------------------------------- */
+
+header {
+  position: sticky; top: 0; z-index: 3;
+  display: flex; justify-content: space-between; align-items: center; gap: 1rem;
+  padding: .9rem var(--gouttiere);
+  background: color-mix(in srgb, var(--fond) 92%, transparent);
+  border-bottom: 1px solid var(--filet);
+  backdrop-filter: blur(12px);
+}
+
+.brand {
+  display: inline-flex; align-items: center; gap: .55rem;
+  border: 0; background: none; cursor: pointer;
+  font-weight: 600; letter-spacing: -.01em; font-size: 1rem;
+  color: var(--texte-fort);
+}
+.marque-glyphe { color: var(--accent); flex: none; }
+.brand:hover .marque-glyphe { color: var(--accent-2); }
+
+nav { display: flex; align-items: center; gap: .15rem; }
+nav button, .retour {
+  border: 0; background: none; cursor: pointer;
+  padding: .45rem .6rem;
+  font-family: var(--police-mono); font-size: .8rem;
+  color: var(--attenue);
+  text-decoration: none;
+  transition: color var(--transition);
+}
+nav button:hover, .retour:hover { color: var(--accent); }
+nav button[aria-current="page"] { color: var(--texte-fort); }
+
+.bascule-theme {
+  border: 1px solid var(--filet); background: none; cursor: pointer;
+  width: 2rem; height: 2rem; line-height: 1;
+  border-radius: var(--rayon);
+  color: var(--attenue);
+  transition: color var(--transition), border-color var(--transition);
+}
+.bascule-theme:hover { color: var(--accent); border-color: var(--accent); }
+
+/* --- Corps ---------------------------------------------------------------- */
+
+main {
+  width: min(var(--rangee), 100%);
+  margin: 0 auto;
+  padding: clamp(2rem, 6vw, 4rem) var(--gouttiere) 5rem;
+  flex: 1;
+}
+
+.eyebrow {
+  font-family: var(--police-mono);
+  text-transform: uppercase; letter-spacing: .14em;
+  font-size: .72rem; font-weight: 600;
+  color: var(--accent);
+  margin: 0;
+}
+
+h1, h2, h3, h4 { color: var(--texte-fort); font-weight: 600; letter-spacing: -.02em; }
+.hero h1, section > h1 {
+  font-size: clamp(2.2rem, 6vw, 4rem);
+  line-height: 1.04; letter-spacing: -.035em;
+  margin: .25em 0 .3em;
+}
+h2 { font-size: clamp(1.4rem, 3vw, 1.9rem); margin-top: 2.5rem; }
+h3 { font-size: 1.05rem; }
+
+.hero { max-width: 52rem; padding: clamp(1rem, 5vh, 4rem) 0; }
+.hero p { font-size: clamp(1.02rem, 1.6vw, 1.2rem); line-height: 1.6; max-width: 46rem; }
+
+.muted, .progress { color: var(--attenue); }
+
+/* --- Boutons -------------------------------------------------------------- */
+
+.primary, section > button {
+  display: inline-flex; align-items: center; gap: .5rem;
+  border: 1px solid var(--accent); background: var(--accent); color: var(--fond);
+  border-radius: var(--rayon);
+  padding: .7rem 1.15rem;
+  font-family: var(--police-mono); font-size: .85rem; font-weight: 600;
+  cursor: pointer;
+  transition: background var(--transition), color var(--transition);
+}
+.primary:hover, section > button:hover { background: transparent; color: var(--accent); }
+
+.stats { display: flex; flex-wrap: wrap; gap: .5rem; margin-top: 2rem; padding: 0; list-style: none; }
+.stats span {
+  border: 1px solid var(--filet); border-radius: var(--rayon);
+  padding: .35rem .7rem;
+  font-family: var(--police-mono); font-size: .78rem; color: var(--attenue);
+}
+
+/* --- Questionnaire -------------------------------------------------------- */
+
+.test { max-width: 46rem; margin: clamp(1rem, 6vh, 4rem) auto; }
+.progress {
+  display: flex; justify-content: space-between; gap: 1rem;
+  font-family: var(--police-mono); font-size: .78rem;
+}
+.test h2 { font-size: clamp(1.35rem, 3.2vw, 2.1rem); line-height: 1.25; margin: 2rem 0 1.6rem; }
+
+.options { display: grid; gap: .5rem; }
+.test .options button {
+  text-align: left; cursor: pointer;
+  background: var(--surface); color: var(--texte);
+  border: 1px solid var(--filet); border-radius: var(--rayon);
+  padding: .85rem 1rem;
+  transition: border-color var(--transition), background var(--transition);
+}
+.test .options button:hover { border-color: var(--accent); background: var(--surface-vive); }
+
+/* --- Cartes et panneaux --------------------------------------------------- */
+
+.cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(17rem, 1fr)); gap: .8rem; }
+.card, .panel {
+  background: var(--surface);
+  border: 1px solid var(--filet);
+  border-radius: var(--rayon);
+  padding: 1.35rem;
+}
+.card h3, .panel h3 { margin-top: 0; }
+.card p { line-height: 1.55; }
+
+.result-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(19rem, 1fr)); gap: 1rem; margin: 2rem 0 1rem; }
+
+.rank {
+  display: grid; grid-template-columns: 1fr auto; gap: .25rem;
+  padding: .8rem 0; border-bottom: 1px solid var(--filet);
+}
+.rank span { font-family: var(--police-mono); color: var(--accent); }
+.rank small { grid-column: 1 / -1; color: var(--attenue); font-family: var(--police-mono); font-size: .75rem; }
+
+.radar { display: block; max-width: 32rem; width: 100%; margin: auto; }
+
+.dimension-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); gap: .6rem; margin: 1.4rem 0 2.2rem; }
+.dimension {
+  background: var(--surface); border: 1px solid var(--filet);
+  border-radius: var(--rayon); padding: .9rem;
+}
+.dimension small { font-family: var(--police-mono); font-size: .74rem; color: var(--attenue); }
+.bar { height: 6px; background: var(--fond-doux); border-radius: 99px; margin: .6rem 0; overflow: hidden; }
+.bar i { display: block; height: 100%; background: var(--accent); }
+
+.warning {
+  padding: 1rem 1.15rem;
+  border-left: 3px solid var(--alerte);
+  background: var(--fond-doux);
+  color: var(--texte);
+  line-height: 1.55;
+}
+
+.answer-audit { padding: .9rem 0; border-top: 1px solid var(--filet); }
+.answer-audit p { margin: .3em 0; }
+.answer-audit small { font-family: var(--police-mono); font-size: .74rem; color: var(--attenue); }
+
+details summary { cursor: pointer; margin: .5rem 0; color: var(--attenue); }
+details summary:hover { color: var(--accent); }
+
+ol li, ul li { margin: .4em 0; line-height: 1.5; }
+
+/* --- Projections ---------------------------------------------------------- */
+
+.doctrine-map svg, .axis-explorer svg {
+  width: 100%; display: block; margin: auto;
+  background: var(--fond-doux);
+  border: 1px solid var(--filet);
+  border-radius: var(--rayon);
+}
+.doctrine-map svg { max-width: 45rem; }
+.doctrine-map line { stroke: var(--filet-vif); stroke-width: .25; }
+.doctrine-map circle.school { fill: var(--accent-2); opacity: .75; }
+.doctrine-map circle.economist { fill: var(--attenue); opacity: .45; }
+.doctrine-map circle.user { fill: var(--accent); stroke: var(--fond); stroke-width: .7; }
+.doctrine-map text { font-size: 3px; font-weight: 600; fill: var(--attenue); font-family: var(--police-mono); }
+
+.axis-explorer label { display: flex; gap: .75rem; align-items: center; flex-wrap: wrap; }
+.axis-explorer select {
+  max-width: 100%; padding: .5rem .6rem;
+  border: 1px solid var(--filet); border-radius: var(--rayon);
+  background: var(--surface); color: var(--texte); font: inherit;
+}
+.axis-explorer svg { margin-top: 1rem; }
+.axis-explorer .axis-line { stroke: var(--filet-vif); stroke-width: .4; }
+.axis-explorer circle.school { fill: var(--accent-2); opacity: .8; }
+.axis-explorer circle.economist { fill: var(--attenue); opacity: .5; }
+.axis-explorer .user-line { stroke: var(--accent); stroke-width: .55; }
+.axis-explorer circle.user { fill: var(--accent); }
+.axis-explorer text { font-size: 2.6px; fill: var(--attenue); font-family: var(--police-mono); }
+.axis-explorer text.user-label { font-size: 3px; font-weight: 600; fill: var(--accent); }
+
+.legend { display: flex; gap: 1rem; flex-wrap: wrap; font-family: var(--police-mono); font-size: .78rem; color: var(--attenue); margin-top: .5rem; }
+
+/* --- Pied ----------------------------------------------------------------- */
+
+footer {
+  padding: 1.5rem var(--gouttiere);
+  border-top: 1px solid var(--filet);
+  color: var(--attenue);
+  font-family: var(--police-mono); font-size: .78rem;
+}
+
+@media (max-width: 40rem) {
+  nav .lien-nav { display: none; }
+  main { padding-top: 2rem; }
+}

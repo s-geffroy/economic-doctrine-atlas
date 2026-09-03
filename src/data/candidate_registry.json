@@ -1,0 +1,576 @@
+[
+  {
+    "kind": "school",
+    "id": "classical",
+    "name": "Économie classique",
+    "decision": "include_v1",
+    "reason": "Identité doctrinale distincte, littérature identifiable et positionnement possible dans l’espace V0.1."
+  },
+  {
+    "kind": "school",
+    "id": "neoclassical",
+    "name": "Économie néoclassique",
+    "decision": "include_v1",
+    "reason": "Identité doctrinale distincte, littérature identifiable et positionnement possible dans l’espace V0.1."
+  },
+  {
+    "kind": "school",
+    "id": "austrian",
+    "name": "École autrichienne",
+    "decision": "include_v1",
+    "reason": "Identité doctrinale distincte, littérature identifiable et positionnement possible dans l’espace V0.1."
+  },
+  {
+    "kind": "school",
+    "id": "keynesian",
+    "name": "Keynésianisme",
+    "decision": "include_v1",
+    "reason": "Identité doctrinale distincte, littérature identifiable et positionnement possible dans l’espace V0.1."
+  },
+  {
+    "kind": "school",
+    "id": "post_keynesian",
+    "name": "Post-keynésianisme",
+    "decision": "include_v1",
+    "reason": "Identité doctrinale distincte, littérature identifiable et positionnement possible dans l’espace V0.1."
+  },
+  {
+    "kind": "school",
+    "id": "new_keynesian",
+    "name": "Nouvelle économie keynésienne",
+    "decision": "include_v1",
+    "reason": "Identité doctrinale distincte, littérature identifiable et positionnement possible dans l’espace V0.1."
+  },
+  {
+    "kind": "school",
+    "id": "new_classical",
+    "name": "Nouvelle économie classique",
+    "decision": "include_v1",
+    "reason": "Identité doctrinale distincte, littérature identifiable et positionnement possible dans l’espace V0.1."
+  },
+  {
+    "kind": "school",
+    "id": "monetarist",
+    "name": "Monétarisme",
+    "decision": "include_v1",
+    "reason": "Identité doctrinale distincte, littérature identifiable et positionnement possible dans l’espace V0.1."
+  },
+  {
+    "kind": "school",
+    "id": "chicago",
+    "name": "École de Chicago",
+    "decision": "include_v1",
+    "reason": "Identité doctrinale distincte, littérature identifiable et positionnement possible dans l’espace V0.1."
+  },
+  {
+    "kind": "school",
+    "id": "old_institutional",
+    "name": "Institutionnalisme historique américain",
+    "decision": "include_v1",
+    "reason": "Identité doctrinale distincte, littérature identifiable et positionnement possible dans l’espace V0.1."
+  },
+  {
+    "kind": "school",
+    "id": "new_institutional",
+    "name": "Nouvelle économie institutionnelle",
+    "decision": "include_v1",
+    "reason": "Identité doctrinale distincte, littérature identifiable et positionnement possible dans l’espace V0.1."
+  },
+  {
+    "kind": "school",
+    "id": "ordoliberal",
+    "name": "Ordolibéralisme",
+    "decision": "include_v1",
+    "reason": "Identité doctrinale distincte, littérature identifiable et positionnement possible dans l’espace V0.1."
+  },
+  {
+    "kind": "school",
+    "id": "public_choice",
+    "name": "Public choice",
+    "decision": "include_v1",
+    "reason": "Identité doctrinale distincte, littérature identifiable et positionnement possible dans l’espace V0.1."
+  },
+  {
+    "kind": "school",
+    "id": "marxian",
+    "name": "Économie marxienne",
+    "decision": "include_v1",
+    "reason": "Identité doctrinale distincte, littérature identifiable et positionnement possible dans l’espace V0.1."
+  },
+  {
+    "kind": "school",
+    "id": "sraffian",
+    "name": "Économie sraffienne / néo-ricardienne",
+    "decision": "include_v1",
+    "reason": "Identité doctrinale distincte, littérature identifiable et positionnement possible dans l’espace V0.1."
+  },
+  {
+    "kind": "school",
+    "id": "behavioral",
+    "name": "Économie comportementale",
+    "decision": "include_v1",
+    "reason": "Identité doctrinale distincte, littérature identifiable et positionnement possible dans l’espace V0.1."
+  },
+  {
+    "kind": "school",
+    "id": "ecological",
+    "name": "Économie écologique",
+    "decision": "include_v1",
+    "reason": "Identité doctrinale distincte, littérature identifiable et positionnement possible dans l’espace V0.1."
+  },
+  {
+    "kind": "school",
+    "id": "mmt",
+    "name": "Modern Monetary Theory",
+    "decision": "include_v1",
+    "reason": "Identité doctrinale distincte, littérature identifiable et positionnement possible dans l’espace V0.1."
+  },
+  {
+    "kind": "school",
+    "id": "developmentalist",
+    "name": "Économie structuraliste du développement",
+    "decision": "include_v1",
+    "reason": "Identité doctrinale distincte, littérature identifiable et positionnement possible dans l’espace V0.1."
+  },
+  {
+    "kind": "economist",
+    "id": "adam_smith",
+    "name": "Adam Smith",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "david_ricardo",
+    "name": "David Ricardo",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "thomas_malthus",
+    "name": "Thomas Robert Malthus",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "john_stuart_mill",
+    "name": "John Stuart Mill",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "karl_marx",
+    "name": "Karl Marx",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "leon_walras",
+    "name": "Léon Walras",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "alfred_marshall",
+    "name": "Alfred Marshall",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "william_jevons",
+    "name": "William Stanley Jevons",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "carl_menger",
+    "name": "Carl Menger",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "bohm_bawerk",
+    "name": "Eugen von Böhm-Bawerk",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "ludwig_mises",
+    "name": "Ludwig von Mises",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "friedrich_hayek",
+    "name": "Friedrich A. Hayek",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "john_maynard_keynes",
+    "name": "John Maynard Keynes",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "joan_robinson",
+    "name": "Joan Robinson",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "michal_kalecki",
+    "name": "Michał Kalecki",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "nicholas_kaldor",
+    "name": "Nicholas Kaldor",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "hyman_minsky",
+    "name": "Hyman P. Minsky",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "paul_davidson",
+    "name": "Paul Davidson",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "john_hicks",
+    "name": "John Hicks",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "paul_samuelson",
+    "name": "Paul A. Samuelson",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "james_tobin",
+    "name": "James Tobin",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "franco_modigliani",
+    "name": "Franco Modigliani",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "robert_solow",
+    "name": "Robert M. Solow",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "milton_friedman",
+    "name": "Milton Friedman",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "george_stigler",
+    "name": "George J. Stigler",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "gary_becker",
+    "name": "Gary S. Becker",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "robert_lucas",
+    "name": "Robert E. Lucas Jr.",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "thomas_sargent",
+    "name": "Thomas J. Sargent",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "edward_prescott",
+    "name": "Edward C. Prescott",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "robert_barro",
+    "name": "Robert J. Barro",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "joseph_stiglitz",
+    "name": "Joseph E. Stiglitz",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "paul_krugman",
+    "name": "Paul Krugman",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "thorstein_veblen",
+    "name": "Thorstein Veblen",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "john_commons",
+    "name": "John R. Commons",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "wesley_mitchell",
+    "name": "Wesley C. Mitchell",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "john_galbraith",
+    "name": "John Kenneth Galbraith",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "ronald_coase",
+    "name": "Ronald H. Coase",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "oliver_williamson",
+    "name": "Oliver E. Williamson",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "douglass_north",
+    "name": "Douglass C. North",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "elinor_ostrom",
+    "name": "Elinor Ostrom",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "walter_eucken",
+    "name": "Walter Eucken",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "wilhelm_ropke",
+    "name": "Wilhelm Röpke",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "james_buchanan",
+    "name": "James M. Buchanan",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "gordon_tullock",
+    "name": "Gordon Tullock",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "piero_sraffa",
+    "name": "Piero Sraffa",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "luigi_pasinetti",
+    "name": "Luigi L. Pasinetti",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "herbert_simon",
+    "name": "Herbert A. Simon",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "daniel_kahneman",
+    "name": "Daniel Kahneman",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "richard_thaler",
+    "name": "Richard H. Thaler",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "nicholas_georgescu_roegen",
+    "name": "Nicholas Georgescu-Roegen",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "herman_daly",
+    "name": "Herman E. Daly",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "abba_lerner",
+    "name": "Abba P. Lerner",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "randall_wray",
+    "name": "L. Randall Wray",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "stephanie_kelton",
+    "name": "Stephanie Kelton",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "raul_prebisch",
+    "name": "Raúl Prebisch",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "albert_hirschman",
+    "name": "Albert O. Hirschman",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "economist",
+    "id": "dani_rodrik",
+    "name": "Dani Rodrik",
+    "decision": "include_v1",
+    "reason": "Contribution doctrinale identifiable et corpus primaire suffisant pour un codage initial."
+  },
+  {
+    "kind": "school_candidate",
+    "id": "école_historique_allemande",
+    "name": "École historique allemande",
+    "decision": "defer_or_exclude",
+    "reason": "À intégrer après construction d’axes mieux adaptés à historicisme et méthode inductive."
+  },
+  {
+    "kind": "school_candidate",
+    "id": "école_de_la_régulation",
+    "name": "École de la régulation",
+    "decision": "defer_or_exclude",
+    "reason": "Report V1.1 : profil important mais demande un enrichissement des axes institutions/rapport salarial."
+  },
+  {
+    "kind": "school_candidate",
+    "id": "économie_des_conventions",
+    "name": "Économie des conventions",
+    "decision": "defer_or_exclude",
+    "reason": "Report V1.1 : nécessite un axe conventions/coordination plus explicite."
+  },
+  {
+    "kind": "school_candidate",
+    "id": "féminist_economics",
+    "name": "Féminist economics",
+    "decision": "defer_or_exclude",
+    "reason": "Report V1.1 : nécessite des axes care, pouvoir et reproduction sociale pour éviter un codage inadéquat."
+  },
+  {
+    "kind": "school_candidate",
+    "id": "islamic_economics",
+    "name": "Islamic economics",
+    "decision": "defer_or_exclude",
+    "reason": "Report : forte hétérogénéité et besoin d’un protocole spécifique sur normes juridiques et finance."
+  },
+  {
+    "kind": "school_candidate",
+    "id": "distributism",
+    "name": "Distributism",
+    "decision": "defer_or_exclude",
+    "reason": "Exclude from core school registry for now: doctrine politico-économique, not treated as an economics school in V1."
+  }
+]

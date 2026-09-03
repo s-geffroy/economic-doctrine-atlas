@@ -1,0 +1,2676 @@
+[
+  {
+    "id": "q001",
+    "text": "Pour expliquer une crise économique, il faut d’abord reconstruire les décisions et contraintes des agents individuels plutôt que partir d’agrégats sociaux.",
+    "type": "likert",
+    "loading": {
+      "method_individualism": 1.0
+    },
+    "anchor": true,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "anchor",
+      "method_individualism"
+    ]
+  },
+  {
+    "id": "q002",
+    "text": "Les classes, organisations et structures sociales peuvent avoir des effets économiques irréductibles à la somme des choix individuels.",
+    "type": "likert",
+    "loading": {
+      "method_individualism": -1.0
+    },
+    "anchor": true,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "anchor",
+      "method_individualism"
+    ]
+  },
+  {
+    "id": "q003",
+    "text": "Une bonne explication économique doit préciser les mécanismes reliant les décisions individuelles au résultat collectif.",
+    "type": "likert",
+    "loading": {
+      "method_individualism": 1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "method_individualism"
+    ]
+  },
+  {
+    "id": "q004",
+    "text": "Il est légitime de traiter certains agrégats macroéconomiques comme des causes à part entière, même sans mécanisme micro détaillé.",
+    "type": "likert",
+    "loading": {
+      "method_individualism": -1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "method_individualism"
+    ]
+  },
+  {
+    "id": "q005",
+    "text": "Les institutions n’agissent qu’à travers les incitations et croyances des individus.",
+    "type": "likert",
+    "loading": {
+      "method_individualism": 1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "method_individualism"
+    ]
+  },
+  {
+    "id": "q006",
+    "text": "Le comportement d’un groupe peut avoir des propriétés économiques qui ne se déduisent pas utilement de ses membres pris isolément.",
+    "type": "likert",
+    "loading": {
+      "method_individualism": -1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "method_individualism"
+    ]
+  },
+  {
+    "id": "q007",
+    "text": "Les modèles économiques gagnent en crédibilité lorsqu’ils peuvent être ramenés à des choix individuels explicites.",
+    "type": "likert",
+    "loading": {
+      "method_individualism": 1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "method_individualism"
+    ]
+  },
+  {
+    "id": "q008",
+    "text": "L’histoire économique exige parfois des explications structurelles qui ne peuvent pas être ramenées proprement à l’agent individuel.",
+    "type": "likert",
+    "loading": {
+      "method_individualism": -1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "method_individualism"
+    ]
+  },
+  {
+    "id": "q009",
+    "text": "La valeur économique d’un bien dépend principalement de l’évaluation subjective qu’en font les personnes à la marge.",
+    "type": "likert",
+    "loading": {
+      "subjective_value": 1.0
+    },
+    "anchor": true,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "anchor",
+      "subjective_value"
+    ]
+  },
+  {
+    "id": "q010",
+    "text": "Les coûts de production et les rapports de production donnent un fondement plus profond à la valeur que les préférences individuelles.",
+    "type": "likert",
+    "loading": {
+      "subjective_value": -1.0
+    },
+    "anchor": true,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "anchor",
+      "subjective_value"
+    ]
+  },
+  {
+    "id": "q011",
+    "text": "Deux personnes peuvent attribuer des valeurs économiques radicalement différentes au même bien sans qu’une valeur objective permette de les départager.",
+    "type": "likert",
+    "loading": {
+      "subjective_value": 1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "subjective_value"
+    ]
+  },
+  {
+    "id": "q012",
+    "text": "Une théorie de la valeur centrée sur les préférences manque une partie essentielle des rapports de production.",
+    "type": "likert",
+    "loading": {
+      "subjective_value": -1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "subjective_value"
+    ]
+  },
+  {
+    "id": "q013",
+    "text": "Les prix relatifs s’expliquent d’abord par l’utilité marginale et la rareté.",
+    "type": "likert",
+    "loading": {
+      "subjective_value": 1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "subjective_value"
+    ]
+  },
+  {
+    "id": "q014",
+    "text": "La distribution du surplus et la structure productive sont plus fondamentales que l’utilité marginale pour comprendre les prix.",
+    "type": "likert",
+    "loading": {
+      "subjective_value": -1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "subjective_value"
+    ]
+  },
+  {
+    "id": "q015",
+    "text": "Les préférences des agents constituent un point de départ légitime pour analyser la demande.",
+    "type": "likert",
+    "loading": {
+      "subjective_value": 1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "subjective_value"
+    ]
+  },
+  {
+    "id": "q016",
+    "text": "La valeur ne peut pas être comprise correctement sans référence aux conditions sociales et techniques de production.",
+    "type": "likert",
+    "loading": {
+      "subjective_value": -1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "subjective_value"
+    ]
+  },
+  {
+    "id": "q017",
+    "text": "Une grande partie de l’information économique utile est locale et tacite, donc difficile à centraliser.",
+    "type": "likert",
+    "loading": {
+      "knowledge_decentralization": 1.0,
+      "institutions_causal": 0.25
+    },
+    "anchor": true,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "anchor",
+      "knowledge_decentralization"
+    ]
+  },
+  {
+    "id": "q018",
+    "text": "Avec de bonnes données et des capacités de calcul suffisantes, une autorité centrale peut agréger l’essentiel de l’information nécessaire à l’allocation.",
+    "type": "likert",
+    "loading": {
+      "knowledge_decentralization": -1.0
+    },
+    "anchor": true,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "anchor",
+      "knowledge_decentralization"
+    ]
+  },
+  {
+    "id": "q019",
+    "text": "Les prix de marché jouent un rôle essentiel de communication d’informations dispersées.",
+    "type": "likert",
+    "loading": {
+      "knowledge_decentralization": 1.0,
+      "institutions_causal": 0.25
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "knowledge_decentralization"
+    ]
+  },
+  {
+    "id": "q020",
+    "text": "Les systèmes modernes de données réduisent fortement l’avantage informationnel de la coordination décentralisée.",
+    "type": "likert",
+    "loading": {
+      "knowledge_decentralization": -1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "knowledge_decentralization"
+    ]
+  },
+  {
+    "id": "q021",
+    "text": "Les erreurs de planification viennent souvent du fait que personne ne possède l’ensemble des connaissances pertinentes.",
+    "type": "likert",
+    "loading": {
+      "knowledge_decentralization": 1.0,
+      "institutions_causal": 0.25
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "knowledge_decentralization"
+    ]
+  },
+  {
+    "id": "q022",
+    "text": "Pour de nombreux choix d’investissement, une planification experte peut disposer d’informations plus pertinentes que des décisions décentralisées.",
+    "type": "likert",
+    "loading": {
+      "knowledge_decentralization": -1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "knowledge_decentralization"
+    ]
+  },
+  {
+    "id": "q023",
+    "text": "Les connaissances de terrain des producteurs et consommateurs sont une ressource économique difficilement substituable.",
+    "type": "likert",
+    "loading": {
+      "knowledge_decentralization": 1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "knowledge_decentralization"
+    ]
+  },
+  {
+    "id": "q024",
+    "text": "L’information économique peut en principe être suffisamment standardisée pour permettre une coordination centralisée de grande ampleur.",
+    "type": "likert",
+    "loading": {
+      "knowledge_decentralization": -1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "knowledge_decentralization"
+    ]
+  },
+  {
+    "id": "q025",
+    "text": "Les modèles d’équilibre constituent un bon point de départ pour comprendre la plupart des phénomènes économiques.",
+    "type": "likert",
+    "loading": {
+      "equilibrium_orientation": 1.0
+    },
+    "anchor": true,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "anchor",
+      "equilibrium_orientation"
+    ]
+  },
+  {
+    "id": "q026",
+    "text": "Les économies doivent être étudiées comme des processus historiques souvent durablement hors équilibre.",
+    "type": "likert",
+    "loading": {
+      "equilibrium_orientation": -1.0
+    },
+    "anchor": true,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "anchor",
+      "equilibrium_orientation"
+    ]
+  },
+  {
+    "id": "q027",
+    "text": "Même imparfait, l’équilibre fournit une référence utile pour identifier les forces économiques essentielles.",
+    "type": "likert",
+    "loading": {
+      "equilibrium_orientation": 1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "equilibrium_orientation"
+    ]
+  },
+  {
+    "id": "q028",
+    "text": "Les trajectoires et dépendances historiques sont souvent plus informatives qu’un état d’équilibre théorique.",
+    "type": "likert",
+    "loading": {
+      "equilibrium_orientation": -1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "equilibrium_orientation"
+    ]
+  },
+  {
+    "id": "q029",
+    "text": "L’optimisation sous contraintes permet de capturer une part importante des comportements économiques.",
+    "type": "likert",
+    "loading": {
+      "equilibrium_orientation": 1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "equilibrium_orientation"
+    ]
+  },
+  {
+    "id": "q030",
+    "text": "Les routines, conventions et adaptations successives rendent souvent l’optimisation d’équilibre trop restrictive.",
+    "type": "likert",
+    "loading": {
+      "equilibrium_orientation": -1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "equilibrium_orientation"
+    ]
+  },
+  {
+    "id": "q031",
+    "text": "Les écarts à l’équilibre sont généralement mieux compris comme des frictions autour d’une structure d’équilibre.",
+    "type": "likert",
+    "loading": {
+      "equilibrium_orientation": 1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "equilibrium_orientation"
+    ]
+  },
+  {
+    "id": "q032",
+    "text": "Le déséquilibre peut être un état persistant et générateur de dynamiques propres, pas seulement une transition.",
+    "type": "likert",
+    "loading": {
+      "equilibrium_orientation": -1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "equilibrium_orientation"
+    ]
+  },
+  {
+    "id": "q033",
+    "text": "Dans beaucoup de décisions d’investissement, les probabilités pertinentes ne sont pas objectivement connaissables.",
+    "type": "likert",
+    "loading": {
+      "uncertainty_fundamental": 1.0,
+      "equilibrium_orientation": -0.2
+    },
+    "anchor": true,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "anchor",
+      "uncertainty_fundamental"
+    ]
+  },
+  {
+    "id": "q034",
+    "text": "La plupart des incertitudes économiques peuvent être raisonnablement représentées par des distributions de probabilité.",
+    "type": "likert",
+    "loading": {
+      "uncertainty_fundamental": -1.0
+    },
+    "anchor": true,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "anchor",
+      "uncertainty_fundamental"
+    ]
+  },
+  {
+    "id": "q035",
+    "text": "Les conventions et récits collectifs jouent un rôle majeur lorsque l’avenir est radicalement incertain.",
+    "type": "likert",
+    "loading": {
+      "uncertainty_fundamental": 1.0,
+      "equilibrium_orientation": -0.2
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "uncertainty_fundamental"
+    ]
+  },
+  {
+    "id": "q036",
+    "text": "Avec des marchés suffisamment liquides et des modèles adéquats, le risque remplace l’essentiel de l’incertitude économique.",
+    "type": "likert",
+    "loading": {
+      "uncertainty_fundamental": -1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "uncertainty_fundamental"
+    ]
+  },
+  {
+    "id": "q037",
+    "text": "Les anticipations peuvent changer brutalement sans information nouvelle proportionnelle, car l’avenir n’est pas probabilisable de façon stable.",
+    "type": "likert",
+    "loading": {
+      "uncertainty_fundamental": 1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "uncertainty_fundamental"
+    ]
+  },
+  {
+    "id": "q038",
+    "text": "Les agents apprennent suffisamment pour que les erreurs d’anticipation systématiques disparaissent à long terme.",
+    "type": "likert",
+    "loading": {
+      "uncertainty_fundamental": -1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "uncertainty_fundamental"
+    ]
+  },
+  {
+    "id": "q039",
+    "text": "L’incertitude irréductible est centrale pour comprendre finance, investissement et liquidité.",
+    "type": "likert",
+    "loading": {
+      "uncertainty_fundamental": 1.0,
+      "equilibrium_orientation": -0.2
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "uncertainty_fundamental"
+    ]
+  },
+  {
+    "id": "q040",
+    "text": "Une théorie économique rigoureuse doit éviter de faire de l’incertitude radicale un principe explicatif trop général.",
+    "type": "likert",
+    "loading": {
+      "uncertainty_fundamental": -1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "uncertainty_fundamental"
+    ]
+  },
+  {
+    "id": "q041",
+    "text": "Dans une économie bancaire moderne, le crédit crée largement les dépôts plutôt que l’inverse.",
+    "type": "likert",
+    "loading": {
+      "money_endogeneity": 1.0
+    },
+    "anchor": true,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "anchor",
+      "money_endogeneity"
+    ]
+  },
+  {
+    "id": "q042",
+    "text": "La quantité de monnaie est principalement déterminée de manière exogène par l’autorité monétaire.",
+    "type": "likert",
+    "loading": {
+      "money_endogeneity": -1.0
+    },
+    "anchor": true,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "anchor",
+      "money_endogeneity"
+    ]
+  },
+  {
+    "id": "q043",
+    "text": "Les conditions monétaires peuvent modifier durablement la production, l’investissement et la structure sectorielle.",
+    "type": "likert",
+    "loading": {
+      "money_endogeneity": 1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "money_endogeneity"
+    ]
+  },
+  {
+    "id": "q044",
+    "text": "À long terme, la monnaie affecte surtout les prix nominaux et peu les variables réelles.",
+    "type": "likert",
+    "loading": {
+      "money_endogeneity": -1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "money_endogeneity"
+    ]
+  },
+  {
+    "id": "q045",
+    "text": "La demande de crédit et le comportement bancaire jouent un rôle causal dans la création monétaire.",
+    "type": "likert",
+    "loading": {
+      "money_endogeneity": 1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "money_endogeneity"
+    ]
+  },
+  {
+    "id": "q046",
+    "text": "Pour analyser l’inflation à long terme, la quantité de monnaie reste la variable nominale déterminante.",
+    "type": "likert",
+    "loading": {
+      "money_endogeneity": -1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "money_endogeneity"
+    ]
+  },
+  {
+    "id": "q047",
+    "text": "La monnaie et la finance sont intégrées au processus de production et ne peuvent être ajoutées après coup à un modèle réel.",
+    "type": "likert",
+    "loading": {
+      "money_endogeneity": 1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "money_endogeneity"
+    ]
+  },
+  {
+    "id": "q048",
+    "text": "Une séparation analytique entre secteur réel et secteur monétaire reste généralement une approximation efficace.",
+    "type": "likert",
+    "loading": {
+      "money_endogeneity": -1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "money_endogeneity"
+    ]
+  },
+  {
+    "id": "q049",
+    "text": "Une insuffisance durable de demande agrégée peut maintenir l’économie sous son niveau d’emploi potentiel.",
+    "type": "likert",
+    "loading": {
+      "aggregate_demand_centrality": 1.0
+    },
+    "anchor": true,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "anchor",
+      "aggregate_demand_centrality"
+    ]
+  },
+  {
+    "id": "q050",
+    "text": "Les prix et salaires finissent normalement par rétablir l’emploi sans besoin d’un soutien durable de la demande.",
+    "type": "likert",
+    "loading": {
+      "aggregate_demand_centrality": -1.0
+    },
+    "anchor": true,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "anchor",
+      "aggregate_demand_centrality"
+    ]
+  },
+  {
+    "id": "q051",
+    "text": "Les décisions d’investissement peuvent limiter l’activité globale même lorsque les prix relatifs fonctionnent correctement.",
+    "type": "likert",
+    "loading": {
+      "aggregate_demand_centrality": 1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "aggregate_demand_centrality"
+    ]
+  },
+  {
+    "id": "q052",
+    "text": "Les fluctuations de production proviennent surtout de chocs réels et de réallocation plutôt que d’un manque de demande.",
+    "type": "likert",
+    "loading": {
+      "aggregate_demand_centrality": -1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "aggregate_demand_centrality"
+    ]
+  },
+  {
+    "id": "q053",
+    "text": "Une baisse généralisée de la dépense peut être auto-entretenue au niveau macroéconomique.",
+    "type": "likert",
+    "loading": {
+      "aggregate_demand_centrality": 1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "aggregate_demand_centrality"
+    ]
+  },
+  {
+    "id": "q054",
+    "text": "La demande globale détermine surtout les prix nominaux; la production réelle est principalement contrainte par l’offre.",
+    "type": "likert",
+    "loading": {
+      "aggregate_demand_centrality": -1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "aggregate_demand_centrality"
+    ]
+  },
+  {
+    "id": "q055",
+    "text": "Le paradoxe de l’épargne décrit un mécanisme macroéconomique plausible en récession.",
+    "type": "likert",
+    "loading": {
+      "aggregate_demand_centrality": 1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "aggregate_demand_centrality"
+    ]
+  },
+  {
+    "id": "q056",
+    "text": "La coordination intertemporelle par les prix et taux d’intérêt rend peu probable une insuffisance générale persistante de demande.",
+    "type": "likert",
+    "loading": {
+      "aggregate_demand_centrality": -1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "aggregate_demand_centrality"
+    ]
+  },
+  {
+    "id": "q057",
+    "text": "Les différences durables de performance économique s’expliquent en grande partie par les institutions.",
+    "type": "likert",
+    "loading": {
+      "institutions_causal": 1.0
+    },
+    "anchor": true,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "anchor",
+      "institutions_causal"
+    ]
+  },
+  {
+    "id": "q058",
+    "text": "Une fois les technologies, ressources et préférences prises en compte, les institutions ajoutent relativement peu à l’explication.",
+    "type": "likert",
+    "loading": {
+      "institutions_causal": -1.0
+    },
+    "anchor": true,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "anchor",
+      "institutions_causal"
+    ]
+  },
+  {
+    "id": "q059",
+    "text": "Les règles de propriété, de contrat et de gouvernance modifient profondément les trajectoires économiques.",
+    "type": "likert",
+    "loading": {
+      "institutions_causal": 1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "institutions_causal"
+    ]
+  },
+  {
+    "id": "q060",
+    "text": "Les institutions répondent surtout aux forces économiques sous-jacentes plutôt qu’elles ne les causent.",
+    "type": "likert",
+    "loading": {
+      "institutions_causal": -1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "institutions_causal"
+    ]
+  },
+  {
+    "id": "q061",
+    "text": "Les normes informelles peuvent avoir autant d’importance économique que les règles juridiques formelles.",
+    "type": "likert",
+    "loading": {
+      "institutions_causal": 1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "institutions_causal"
+    ]
+  },
+  {
+    "id": "q062",
+    "text": "Les modèles de marché peuvent souvent abstraire des institutions sans perdre l’essentiel du mécanisme étudié.",
+    "type": "likert",
+    "loading": {
+      "institutions_causal": -1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "institutions_causal"
+    ]
+  },
+  {
+    "id": "q063",
+    "text": "Les coûts de transaction et les dispositifs de gouvernance doivent être des variables centrales de l’analyse.",
+    "type": "likert",
+    "loading": {
+      "institutions_causal": 1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "institutions_causal"
+    ]
+  },
+  {
+    "id": "q064",
+    "text": "La qualité institutionnelle est souvent trop invoquée comme explication résiduelle de phénomènes mal compris.",
+    "type": "likert",
+    "loading": {
+      "institutions_causal": -1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "institutions_causal"
+    ]
+  },
+  {
+    "id": "q065",
+    "text": "L’État devrait se limiter principalement à garantir les droits, les contrats et quelques biens publics essentiels.",
+    "type": "likert",
+    "loading": {
+      "state_scope": -1.0,
+      "knowledge_decentralization": 0.15
+    },
+    "anchor": true,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "anchor",
+      "state_scope"
+    ]
+  },
+  {
+    "id": "q066",
+    "text": "L’État doit pouvoir orienter activement l’investissement et la structure productive lorsqu’il existe des objectifs collectifs importants.",
+    "type": "likert",
+    "loading": {
+      "state_scope": 1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "state_scope"
+    ]
+  },
+  {
+    "id": "q067",
+    "text": "La production publique ne devrait intervenir que lorsqu’une défaillance clairement démontrée ne peut être corrigée autrement.",
+    "type": "likert",
+    "loading": {
+      "state_scope": -1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "state_scope"
+    ]
+  },
+  {
+    "id": "q068",
+    "text": "Dans certains secteurs stratégiques, la propriété ou le contrôle public peut être souhaitable même si une solution marchande est possible.",
+    "type": "likert",
+    "loading": {
+      "state_scope": 1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "state_scope"
+    ]
+  },
+  {
+    "id": "q069",
+    "text": "Une intervention économique étendue crée généralement plus de problèmes d’information et d’incitations qu’elle n’en résout.",
+    "type": "likert",
+    "loading": {
+      "state_scope": -1.0,
+      "knowledge_decentralization": 0.15
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "state_scope"
+    ]
+  },
+  {
+    "id": "q070",
+    "text": "La coordination publique peut légitimement aller au-delà de la correction ponctuelle des défaillances de marché.",
+    "type": "likert",
+    "loading": {
+      "state_scope": 1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "state_scope"
+    ]
+  },
+  {
+    "id": "q071",
+    "text": "La présomption devrait être en faveur de la liberté contractuelle et contre l’intervention économique.",
+    "type": "likert",
+    "loading": {
+      "state_scope": -1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "state_scope"
+    ]
+  },
+  {
+    "id": "q072",
+    "text": "Des objectifs sociaux et industriels peuvent justifier un rôle économique permanent et substantiel de l’État.",
+    "type": "likert",
+    "loading": {
+      "state_scope": 1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "state_scope"
+    ]
+  },
+  {
+    "id": "q073",
+    "text": "Les politiques économiques sont plus crédibles lorsqu’elles suivent des règles stables annoncées à l’avance.",
+    "type": "likert",
+    "loading": {
+      "rule_bound_policy": 1.0
+    },
+    "anchor": true,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "anchor",
+      "rule_bound_policy"
+    ]
+  },
+  {
+    "id": "q074",
+    "text": "Les autorités doivent conserver une grande discrétion afin de réagir à des circonstances imprévisibles.",
+    "type": "likert",
+    "loading": {
+      "rule_bound_policy": -1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "rule_bound_policy"
+    ]
+  },
+  {
+    "id": "q075",
+    "text": "Des contraintes constitutionnelles ou quasi constitutionnelles peuvent améliorer la qualité des politiques économiques.",
+    "type": "likert",
+    "loading": {
+      "rule_bound_policy": 1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "rule_bound_policy"
+    ]
+  },
+  {
+    "id": "q076",
+    "text": "Une règle fixe peut devenir dangereuse lorsqu’un choc exceptionnel exige une réponse rapide et non prévue.",
+    "type": "likert",
+    "loading": {
+      "rule_bound_policy": -1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "rule_bound_policy"
+    ]
+  },
+  {
+    "id": "q077",
+    "text": "Le risque d’opportunisme politique justifie de limiter fortement la discrétion des décideurs.",
+    "type": "likert",
+    "loading": {
+      "rule_bound_policy": 1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "rule_bound_policy"
+    ]
+  },
+  {
+    "id": "q078",
+    "text": "La complexité macroéconomique rend illusoire l’idée de règles suffisamment robustes pour la plupart des situations.",
+    "type": "likert",
+    "loading": {
+      "rule_bound_policy": -1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "rule_bound_policy"
+    ]
+  },
+  {
+    "id": "q079",
+    "text": "La politique de concurrence et la monnaie devraient être protégées autant que possible des décisions politiques de court terme.",
+    "type": "likert",
+    "loading": {
+      "rule_bound_policy": 1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "rule_bound_policy"
+    ]
+  },
+  {
+    "id": "q080",
+    "text": "Une politique économique responsable doit accepter de déroger aux règles lorsque le coût social de leur application devient trop élevé.",
+    "type": "likert",
+    "loading": {
+      "rule_bound_policy": -1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "rule_bound_policy"
+    ]
+  },
+  {
+    "id": "q081",
+    "text": "Réduire fortement les inégalités justifie des transferts importants même si certaines incitations économiques sont affaiblies.",
+    "type": "likert",
+    "loading": {
+      "redistribution_priority": 1.0
+    },
+    "anchor": true,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "anchor",
+      "redistribution_priority"
+    ]
+  },
+  {
+    "id": "q082",
+    "text": "La priorité devrait être d’améliorer les opportunités et la croissance plutôt que de réduire directement les écarts de revenus.",
+    "type": "likert",
+    "loading": {
+      "redistribution_priority": -1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "redistribution_priority"
+    ]
+  },
+  {
+    "id": "q083",
+    "text": "Une forte concentration de richesse peut devenir un problème économique en soi, au-delà de la pauvreté absolue.",
+    "type": "likert",
+    "loading": {
+      "redistribution_priority": 1.0,
+      "state_scope": 0.2
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "redistribution_priority"
+    ]
+  },
+  {
+    "id": "q084",
+    "text": "Les écarts de revenus sont acceptables lorsqu’ils résultent d’échanges volontaires et n’empêchent pas la mobilité sociale.",
+    "type": "likert",
+    "loading": {
+      "redistribution_priority": -1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "redistribution_priority"
+    ]
+  },
+  {
+    "id": "q085",
+    "text": "La fiscalité progressive devrait jouer un rôle important dans la correction des inégalités de marché.",
+    "type": "likert",
+    "loading": {
+      "redistribution_priority": 1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "redistribution_priority"
+    ]
+  },
+  {
+    "id": "q086",
+    "text": "Une redistribution trop ambitieuse risque de dégrader durablement l’investissement, l’épargne et l’innovation.",
+    "type": "likert",
+    "loading": {
+      "redistribution_priority": -1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "redistribution_priority"
+    ]
+  },
+  {
+    "id": "q087",
+    "text": "La répartition du revenu influence suffisamment la demande et le pouvoir économique pour être un objectif macroéconomique central.",
+    "type": "likert",
+    "loading": {
+      "redistribution_priority": 1.0,
+      "state_scope": 0.2
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "redistribution_priority"
+    ]
+  },
+  {
+    "id": "q088",
+    "text": "La distribution est principalement une question normative séparée de l’efficacité économique.",
+    "type": "likert",
+    "loading": {
+      "redistribution_priority": -1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "redistribution_priority"
+    ]
+  },
+  {
+    "id": "q089",
+    "text": "L’économie doit être analysée comme un sous-système matériel de la biosphère soumis à des limites physiques.",
+    "type": "likert",
+    "loading": {
+      "ecological_constraints": 1.0
+    },
+    "anchor": true,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "anchor",
+      "ecological_constraints"
+    ]
+  },
+  {
+    "id": "q090",
+    "text": "L’innovation et la substitution entre ressources rendent peu utile l’idée de limites économiques biophysiques strictes.",
+    "type": "likert",
+    "loading": {
+      "ecological_constraints": -1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "ecological_constraints"
+    ]
+  },
+  {
+    "id": "q091",
+    "text": "Certaines formes de capital naturel ne peuvent pas être remplacées de manière crédible par du capital produit.",
+    "type": "likert",
+    "loading": {
+      "ecological_constraints": 1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "ecological_constraints"
+    ]
+  },
+  {
+    "id": "q092",
+    "text": "La croissance économique peut se poursuivre durablement si les prix environnementaux sont correctement internalisés.",
+    "type": "likert",
+    "loading": {
+      "ecological_constraints": -1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "ecological_constraints"
+    ]
+  },
+  {
+    "id": "q093",
+    "text": "Les flux de matière et d’énergie doivent être des variables centrales de la théorie économique, pas seulement des externalités.",
+    "type": "likert",
+    "loading": {
+      "ecological_constraints": 1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "ecological_constraints"
+    ]
+  },
+  {
+    "id": "q094",
+    "text": "Le principal problème écologique est institutionnel : de bons droits et prix peuvent résoudre l’essentiel sans changer le cadre économique général.",
+    "type": "likert",
+    "loading": {
+      "ecological_constraints": -1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "ecological_constraints"
+    ]
+  },
+  {
+    "id": "q095",
+    "text": "Une politique économique peut devoir accepter une croissance matérielle plus faible pour respecter des contraintes écologiques fortes.",
+    "type": "likert",
+    "loading": {
+      "ecological_constraints": 1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "ecological_constraints"
+    ]
+  },
+  {
+    "id": "q096",
+    "text": "Parler de limites à la croissance agrégée confond souvent consommation de ressources et création de valeur économique.",
+    "type": "likert",
+    "loading": {
+      "ecological_constraints": -1.0
+    },
+    "anchor": false,
+    "context": "general",
+    "options": [
+      "strongly_disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly_agree",
+      "unsure",
+      "depends"
+    ],
+    "tags": [
+      "adaptive",
+      "ecological_constraints"
+    ]
+  },
+  {
+    "id": "q097",
+    "text": "Une hausse simultanée du chômage et des faillites apparaît dans plusieurs secteurs. Pour commencer l’analyse, quelle approche vous paraît la plus convaincante ?",
+    "type": "choice",
+    "anchor": false,
+    "context": "scenario",
+    "options": [
+      {
+        "id": "o1",
+        "label": "Reconstruire les incitations, bilans et décisions des ménages et entreprises.",
+        "contribution": {
+          "method_individualism": 0.9
+        }
+      },
+      {
+        "id": "o2",
+        "label": "Examiner d’abord les structures sectorielles, rapports institutionnels et agrégats.",
+        "contribution": {
+          "method_individualism": -0.9
+        }
+      },
+      {
+        "id": "o3",
+        "label": "Les deux sont nécessaires sans priorité claire.",
+        "contribution": {
+          "method_individualism": 0
+        }
+      }
+    ],
+    "loading": {
+      "method_individualism": 1
+    },
+    "tags": [
+      "adaptive",
+      "scenario",
+      "method_individualism"
+    ]
+  },
+  {
+    "id": "q098",
+    "text": "Un objet rare coûte beaucoup plus cher malgré un faible coût de production. Quelle explication vous paraît la plus fondamentale ?",
+    "type": "choice",
+    "anchor": false,
+    "context": "scenario",
+    "options": [
+      {
+        "id": "o1",
+        "label": "La rareté et les évaluations marginales des acheteurs.",
+        "contribution": {
+          "subjective_value": 0.9
+        }
+      },
+      {
+        "id": "o2",
+        "label": "Les rapports de production et la structure sociale qui rendent ce prix possible.",
+        "contribution": {
+          "subjective_value": -0.9
+        }
+      },
+      {
+        "id": "o3",
+        "label": "Aucune des deux ne domine en général.",
+        "contribution": {
+          "subjective_value": 0
+        }
+      }
+    ],
+    "loading": {
+      "subjective_value": 1
+    },
+    "tags": [
+      "adaptive",
+      "scenario",
+      "subjective_value"
+    ]
+  },
+  {
+    "id": "q099",
+    "text": "Une autorité dispose de données en temps réel sur des milliers d’entreprises. Pour allouer des intrants rares, vous pensez que :",
+    "type": "choice",
+    "anchor": false,
+    "context": "scenario",
+    "options": [
+      {
+        "id": "o1",
+        "label": "Les données améliorent la planification mais ne remplacent pas la connaissance locale et les signaux de prix.",
+        "contribution": {
+          "knowledge_decentralization": 0.9
+        }
+      },
+      {
+        "id": "o2",
+        "label": "Une infrastructure de données suffisamment riche peut devenir supérieure à la coordination décentralisée.",
+        "contribution": {
+          "knowledge_decentralization": -0.9
+        }
+      },
+      {
+        "id": "o3",
+        "label": "Cela dépend surtout du secteur.",
+        "contribution": {
+          "knowledge_decentralization": 0
+        }
+      }
+    ],
+    "loading": {
+      "knowledge_decentralization": 1
+    },
+    "tags": [
+      "adaptive",
+      "scenario",
+      "knowledge_decentralization"
+    ]
+  },
+  {
+    "id": "q100",
+    "text": "Après un choc majeur, l’économie reste désorganisée pendant plusieurs années. Quelle lecture privilégier ?",
+    "type": "choice",
+    "anchor": false,
+    "context": "scenario",
+    "options": [
+      {
+        "id": "o1",
+        "label": "Un nouvel équilibre existe probablement; il faut identifier les frictions qui ralentissent l’ajustement.",
+        "contribution": {
+          "equilibrium_orientation": 0.8
+        }
+      },
+      {
+        "id": "o2",
+        "label": "Le choc a modifié la trajectoire elle-même; raisonner autour d’un équilibre peut être trompeur.",
+        "contribution": {
+          "equilibrium_orientation": -0.8
+        }
+      },
+      {
+        "id": "o3",
+        "label": "Les deux lectures sont également plausibles.",
+        "contribution": {
+          "equilibrium_orientation": 0
+        }
+      }
+    ],
+    "loading": {
+      "equilibrium_orientation": 1
+    },
+    "tags": [
+      "adaptive",
+      "scenario",
+      "equilibrium_orientation"
+    ]
+  },
+  {
+    "id": "q101",
+    "text": "Une entreprise doit investir dans une technologie dont le marché à dix ans est inconnu. Le meilleur modèle conceptuel est :",
+    "type": "choice",
+    "anchor": false,
+    "context": "scenario",
+    "options": [
+      {
+        "id": "o1",
+        "label": "Attribuer des probabilités et travailler avec le risque, même imparfaitement.",
+        "contribution": {
+          "uncertainty_fundamental": -0.8
+        }
+      },
+      {
+        "id": "o2",
+        "label": "Reconnaître que certaines éventualités et probabilités ne sont pas connaissables de façon stable.",
+        "contribution": {
+          "uncertainty_fundamental": 0.9
+        }
+      },
+      {
+        "id": "o3",
+        "label": "Cela dépend de la maturité du secteur.",
+        "contribution": {
+          "uncertainty_fundamental": 0
+        }
+      }
+    ],
+    "loading": {
+      "uncertainty_fundamental": 1
+    },
+    "tags": [
+      "adaptive",
+      "scenario",
+      "uncertainty_fundamental"
+    ]
+  },
+  {
+    "id": "q102",
+    "text": "La demande de crédit augmente fortement dans une économie bancaire saine. Quelle chaîne causale vous paraît la plus réaliste ?",
+    "type": "choice",
+    "anchor": false,
+    "context": "scenario",
+    "options": [
+      {
+        "id": "o1",
+        "label": "Les banques accordent des crédits rentables puis trouvent les réserves/liquidités nécessaires.",
+        "contribution": {
+          "money_endogeneity": 0.9
+        }
+      },
+      {
+        "id": "o2",
+        "label": "Les crédits sont surtout contraints par une quantité de monnaie préalablement disponible.",
+        "contribution": {
+          "money_endogeneity": -0.9
+        }
+      },
+      {
+        "id": "o3",
+        "label": "Aucune chaîne simple ne vaut en général.",
+        "contribution": {
+          "money_endogeneity": 0
+        }
+      }
+    ],
+    "loading": {
+      "money_endogeneity": 1
+    },
+    "tags": [
+      "adaptive",
+      "scenario",
+      "money_endogeneity"
+    ]
+  },
+  {
+    "id": "q103",
+    "text": "Une économie entre en récession avec capacités inutilisées et inflation faible. Vous jugez que :",
+    "type": "choice",
+    "anchor": false,
+    "context": "scenario",
+    "options": [
+      {
+        "id": "o1",
+        "label": "Une dépense agrégée insuffisante peut prolonger le sous-emploi.",
+        "contribution": {
+          "aggregate_demand_centrality": 0.9
+        }
+      },
+      {
+        "id": "o2",
+        "label": "La reprise dépend surtout des ajustements de prix, de coûts et de réallocation.",
+        "contribution": {
+          "aggregate_demand_centrality": -0.9
+        }
+      },
+      {
+        "id": "o3",
+        "label": "Impossible à dire sans diagnostic plus fin.",
+        "contribution": {
+          "aggregate_demand_centrality": 0
+        }
+      }
+    ],
+    "loading": {
+      "aggregate_demand_centrality": 1
+    },
+    "tags": [
+      "adaptive",
+      "scenario",
+      "aggregate_demand_centrality"
+    ]
+  },
+  {
+    "id": "q104",
+    "text": "Deux pays comparables en ressources et capital humain divergent durablement. Votre première hypothèse est :",
+    "type": "choice",
+    "anchor": false,
+    "context": "scenario",
+    "options": [
+      {
+        "id": "o1",
+        "label": "Les institutions, règles et organisations peuvent expliquer une part majeure de l’écart.",
+        "contribution": {
+          "institutions_causal": 0.9
+        }
+      },
+      {
+        "id": "o2",
+        "label": "Il faut d’abord chercher des facteurs technologiques, géographiques ou de préférences.",
+        "contribution": {
+          "institutions_causal": -0.7
+        }
+      },
+      {
+        "id": "o3",
+        "label": "Aucune priorité sans données.",
+        "contribution": {
+          "institutions_causal": 0
+        }
+      }
+    ],
+    "loading": {
+      "institutions_causal": 1
+    },
+    "tags": [
+      "adaptive",
+      "scenario",
+      "institutions_causal"
+    ]
+  },
+  {
+    "id": "q105",
+    "text": "Un secteur stratégique est rentable mais sous-investit dans une capacité jugée vitale. Quelle réponse de principe préférez-vous ?",
+    "type": "choice",
+    "anchor": false,
+    "context": "scenario",
+    "options": [
+      {
+        "id": "o1",
+        "label": "Créer des incitations ciblées et laisser la production privée décider.",
+        "contribution": {
+          "state_scope": -0.5
+        }
+      },
+      {
+        "id": "o2",
+        "label": "L’État peut investir, produire ou coordonner directement si l’objectif est suffisamment important.",
+        "contribution": {
+          "state_scope": 0.9
+        }
+      },
+      {
+        "id": "o3",
+        "label": "Cela dépend entièrement du secteur et du risque.",
+        "contribution": {
+          "state_scope": 0
+        }
+      }
+    ],
+    "loading": {
+      "state_scope": 1
+    },
+    "tags": [
+      "adaptive",
+      "scenario",
+      "state_scope"
+    ]
+  },
+  {
+    "id": "q106",
+    "text": "Une règle budgétaire crédible devient très contraignante lors d’une crise exceptionnelle. Vous préférez :",
+    "type": "choice",
+    "anchor": false,
+    "context": "scenario",
+    "options": [
+      {
+        "id": "o1",
+        "label": "Préserver la règle sauf mécanisme d’exception précisément préétabli.",
+        "contribution": {
+          "rule_bound_policy": 0.9
+        }
+      },
+      {
+        "id": "o2",
+        "label": "Autoriser une dérogation discrétionnaire si le coût économique est suffisamment élevé.",
+        "contribution": {
+          "rule_bound_policy": -0.8
+        }
+      },
+      {
+        "id": "o3",
+        "label": "Impossible à trancher sans connaître la règle.",
+        "contribution": {
+          "rule_bound_policy": 0
+        }
+      }
+    ],
+    "loading": {
+      "rule_bound_policy": 1
+    },
+    "tags": [
+      "adaptive",
+      "scenario",
+      "rule_bound_policy"
+    ]
+  },
+  {
+    "id": "q107",
+    "text": "Une réforme augmente le revenu moyen mais creuse fortement les inégalités. Votre critère principal est :",
+    "type": "choice",
+    "anchor": false,
+    "context": "scenario",
+    "options": [
+      {
+        "id": "o1",
+        "label": "Évaluer d’abord les gains d’efficacité et les opportunités créées.",
+        "contribution": {
+          "redistribution_priority": -0.7
+        }
+      },
+      {
+        "id": "o2",
+        "label": "Considérer l’augmentation des inégalités comme un coût économique et social majeur à corriger.",
+        "contribution": {
+          "redistribution_priority": 0.9
+        }
+      },
+      {
+        "id": "o3",
+        "label": "Les deux critères doivent être mis sur le même plan.",
+        "contribution": {
+          "redistribution_priority": 0
+        }
+      }
+    ],
+    "loading": {
+      "redistribution_priority": 1
+    },
+    "tags": [
+      "adaptive",
+      "scenario",
+      "redistribution_priority"
+    ]
+  },
+  {
+    "id": "q108",
+    "text": "Une activité peut croître rapidement mais augmente un prélèvement sur une ressource difficilement renouvelable. Vous considérez que :",
+    "type": "choice",
+    "anchor": false,
+    "context": "scenario",
+    "options": [
+      {
+        "id": "o1",
+        "label": "La contrainte matérielle doit entrer directement dans la limite acceptable de croissance.",
+        "contribution": {
+          "ecological_constraints": 0.9
+        }
+      },
+      {
+        "id": "o2",
+        "label": "Des prix, innovations et substitutions adéquats peuvent en principe préserver la croissance de valeur.",
+        "contribution": {
+          "ecological_constraints": -0.7
+        }
+      },
+      {
+        "id": "o3",
+        "label": "Cela dépend du degré réel de substituabilité.",
+        "contribution": {
+          "ecological_constraints": 0
+        }
+      }
+    ],
+    "loading": {
+      "ecological_constraints": 1
+    },
+    "tags": [
+      "adaptive",
+      "scenario",
+      "ecological_constraints"
+    ]
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "questionnaire": "0.1.0",
+  "doctrine_model": "0.1.0-seed",
+  "reference_corpus": "2026.08",
+  "scoring_engine": "0.1.0",
+  "scientific_status": "prototype-unvalidated"
+}

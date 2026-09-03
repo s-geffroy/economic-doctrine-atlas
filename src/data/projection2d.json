@@ -1,0 +1,599 @@
+{
+  "dimensions": [
+    "method_individualism",
+    "subjective_value",
+    "knowledge_decentralization",
+    "equilibrium_orientation",
+    "uncertainty_fundamental",
+    "money_endogeneity",
+    "aggregate_demand_centrality",
+    "institutions_causal",
+    "state_scope",
+    "rule_bound_policy",
+    "redistribution_priority",
+    "ecological_constraints"
+  ],
+  "mean": [
+    0.3210526315789474,
+    0.3723684210526314,
+    0.09078947368421052,
+    -0.005263157894736844,
+    0.21315789473684219,
+    0.11973684210526316,
+    0.1302631578947369,
+    0.456578947368421,
+    0.05657894736842105,
+    0.12763157894736843,
+    0.06710526315789474,
+    -0.16447368421052636
+  ],
+  "components": [
+    [
+      -0.3179540925135018,
+      -0.2533711745179143,
+      -0.22795086208894944,
+      -0.35291756870576957,
+      0.3137659915451104,
+      0.32164654750861055,
+      0.33368929651666746,
+      0.09041320401969065,
+      0.34208792576379393,
+      -0.3000933508576086,
+      0.3206827125583796,
+      0.1638583955356838
+    ],
+    [
+      0.04421410850467751,
+      0.03901435179460808,
+      -0.22928053272750926,
+      0.6082664725070854,
+      -0.4817964762034943,
+      0.14092859794229118,
+      0.3584196186270192,
+      -0.24106458093511843,
+      0.2463981234234067,
+      -0.21725064757467927,
+      0.16075301475169795,
+      -0.04060108928291458
+    ]
+  ],
+  "scale": 2.9390483121366797,
+  "explained_variance_ratio": [
+    0.7566447774402457,
+    0.10654035506697908
+  ],
+  "points": [
+    {
+      "kind": "school",
+      "id": "classical",
+      "name": "Économie classique",
+      "x": -0.306711530350665,
+      "y": -0.004758921218821972
+    },
+    {
+      "kind": "school",
+      "id": "neoclassical",
+      "name": "Économie néoclassique",
+      "x": -0.5035971619453495,
+      "y": 0.2683091550460147
+    },
+    {
+      "kind": "school",
+      "id": "austrian",
+      "name": "École autrichienne",
+      "x": -0.5677565331259633,
+      "y": -0.621956113562591
+    },
+    {
+      "kind": "school",
+      "id": "keynesian",
+      "name": "Keynésianisme",
+      "x": 0.29321735465614435,
+      "y": 0.1744548112910599
+    },
+    {
+      "kind": "school",
+      "id": "post_keynesian",
+      "name": "Post-keynésianisme",
+      "x": 0.643786943322138,
+      "y": -0.004878629631139743
+    },
+    {
+      "kind": "school",
+      "id": "new_keynesian",
+      "name": "Nouvelle économie keynésienne",
+      "x": -0.08226401258028386,
+      "y": 0.420842598202365
+    },
+    {
+      "kind": "school",
+      "id": "new_classical",
+      "name": "Nouvelle économie classique",
+      "x": -0.7156037098496507,
+      "y": 0.17244967906362355
+    },
+    {
+      "kind": "school",
+      "id": "monetarist",
+      "name": "Monétarisme",
+      "x": -0.6953580740553359,
+      "y": 0.050881276835629395
+    },
+    {
+      "kind": "school",
+      "id": "chicago",
+      "name": "École de Chicago",
+      "x": -0.7662532784730135,
+      "y": 0.11079934041796725
+    },
+    {
+      "kind": "school",
+      "id": "old_institutional",
+      "name": "Institutionnalisme historique américain",
+      "x": 0.6352923829675929,
+      "y": -0.11823590266456833
+    },
+    {
+      "kind": "school",
+      "id": "new_institutional",
+      "name": "Nouvelle économie institutionnelle",
+      "x": -0.42774788435573646,
+      "y": -0.05894603728890551
+    },
+    {
+      "kind": "school",
+      "id": "ordoliberal",
+      "name": "Ordolibéralisme",
+      "x": -0.47936801094642817,
+      "y": -0.09652321074401764
+    },
+    {
+      "kind": "school",
+      "id": "public_choice",
+      "name": "Public choice",
+      "x": -0.6936897716215558,
+      "y": -0.14857641634660304
+    },
+    {
+      "kind": "school",
+      "id": "marxian",
+      "name": "Économie marxienne",
+      "x": 1.0,
+      "y": -0.01645479368037463
+    },
+    {
+      "kind": "school",
+      "id": "sraffian",
+      "name": "Économie sraffienne / néo-ricardienne",
+      "x": 0.5939818508876209,
+      "y": -0.021262068678215944
+    },
+    {
+      "kind": "school",
+      "id": "behavioral",
+      "name": "Économie comportementale",
+      "x": 0.1674816491970779,
+      "y": -0.15119405622962973
+    },
+    {
+      "kind": "school",
+      "id": "ecological",
+      "name": "Économie écologique",
+      "x": 0.7225112778513104,
+      "y": -0.07688726524520671
+    },
+    {
+      "kind": "school",
+      "id": "mmt",
+      "name": "Modern Monetary Theory",
+      "x": 0.7269413481137618,
+      "y": 0.08411164245903163
+    },
+    {
+      "kind": "school",
+      "id": "developmentalist",
+      "name": "Économie structuraliste du développement",
+      "x": 0.6724867223775329,
+      "y": 0.026395431235153675
+    },
+    {
+      "kind": "economist",
+      "id": "adam_smith",
+      "name": "Adam Smith",
+      "x": -0.2772801577531144,
+      "y": -0.004395977713180112
+    },
+    {
+      "kind": "economist",
+      "id": "david_ricardo",
+      "name": "David Ricardo",
+      "x": -0.24178502710720323,
+      "y": -0.00045704329431660957
+    },
+    {
+      "kind": "economist",
+      "id": "thomas_malthus",
+      "name": "Thomas Robert Malthus",
+      "x": -0.20656231736969607,
+      "y": 0.019232800191126744
+    },
+    {
+      "kind": "economist",
+      "id": "john_stuart_mill",
+      "name": "John Stuart Mill",
+      "x": -0.1994457987576198,
+      "y": 0.03971902765271355
+    },
+    {
+      "kind": "economist",
+      "id": "karl_marx",
+      "name": "Karl Marx",
+      "x": 1.0,
+      "y": -0.01645479368037463
+    },
+    {
+      "kind": "economist",
+      "id": "leon_walras",
+      "name": "Léon Walras",
+      "x": -0.51560504787388,
+      "y": 0.28900519022159427
+    },
+    {
+      "kind": "economist",
+      "id": "alfred_marshall",
+      "name": "Alfred Marshall",
+      "x": -0.47342884039073313,
+      "y": 0.21051282349644976
+    },
+    {
+      "kind": "economist",
+      "id": "william_jevons",
+      "name": "William Stanley Jevons",
+      "x": -0.5208388774674544,
+      "y": 0.27096405198210793
+    },
+    {
+      "kind": "economist",
+      "id": "carl_menger",
+      "name": "Carl Menger",
+      "x": -0.5610685701582135,
+      "y": -0.5151967633748872
+    },
+    {
+      "kind": "economist",
+      "id": "bohm_bawerk",
+      "name": "Eugen von Böhm-Bawerk",
+      "x": -0.651811734625676,
+      "y": -0.4770838673335339
+    },
+    {
+      "kind": "economist",
+      "id": "ludwig_mises",
+      "name": "Ludwig von Mises",
+      "x": -0.5793959445759609,
+      "y": -0.6303397159146148
+    },
+    {
+      "kind": "economist",
+      "id": "friedrich_hayek",
+      "name": "Friedrich A. Hayek",
+      "x": -0.5290963359820792,
+      "y": -0.6461995618545577
+    },
+    {
+      "kind": "economist",
+      "id": "john_maynard_keynes",
+      "name": "John Maynard Keynes",
+      "x": 0.3259225427824356,
+      "y": 0.1538640189831917
+    },
+    {
+      "kind": "economist",
+      "id": "joan_robinson",
+      "name": "Joan Robinson",
+      "x": 0.6557948292506685,
+      "y": -0.02557466480671934
+    },
+    {
+      "kind": "economist",
+      "id": "michal_kalecki",
+      "name": "Michał Kalecki",
+      "x": 0.6656091577603379,
+      "y": 0.006060490633598678
+    },
+    {
+      "kind": "economist",
+      "id": "nicholas_kaldor",
+      "name": "Nicholas Kaldor",
+      "x": 0.6468632181709159,
+      "y": -0.013080760230342632
+    },
+    {
+      "kind": "economist",
+      "id": "hyman_minsky",
+      "name": "Hyman P. Minsky",
+      "x": 0.643786943322138,
+      "y": -0.004878629631139743
+    },
+    {
+      "kind": "economist",
+      "id": "paul_davidson",
+      "name": "Paul Davidson",
+      "x": 0.643786943322138,
+      "y": -0.004878629631139743
+    },
+    {
+      "kind": "economist",
+      "id": "john_hicks",
+      "name": "John Hicks",
+      "x": -0.42412160293629964,
+      "y": 0.35367479262429397
+    },
+    {
+      "kind": "economist",
+      "id": "paul_samuelson",
+      "name": "Paul A. Samuelson",
+      "x": -0.3772781969733194,
+      "y": 0.38339771330180167
+    },
+    {
+      "kind": "economist",
+      "id": "james_tobin",
+      "name": "James Tobin",
+      "x": 0.27063404186977263,
+      "y": 0.161276167041959
+    },
+    {
+      "kind": "economist",
+      "id": "franco_modigliani",
+      "name": "Franco Modigliani",
+      "x": 0.24518581094202285,
+      "y": 0.2572389519933783
+    },
+    {
+      "kind": "economist",
+      "id": "robert_solow",
+      "name": "Robert M. Solow",
+      "x": -0.4024839800498601,
+      "y": 0.329191365115956
+    },
+    {
+      "kind": "economist",
+      "id": "milton_friedman",
+      "name": "Milton Friedman",
+      "x": -0.7302763084053283,
+      "y": 0.025730469779557962
+    },
+    {
+      "kind": "economist",
+      "id": "george_stigler",
+      "name": "George J. Stigler",
+      "x": -0.7655875905278995,
+      "y": 0.06960721566913193
+    },
+    {
+      "kind": "economist",
+      "id": "gary_becker",
+      "name": "Gary S. Becker",
+      "x": -0.7770715454338021,
+      "y": 0.11230370862865972
+    },
+    {
+      "kind": "economist",
+      "id": "robert_lucas",
+      "name": "Robert E. Lucas Jr.",
+      "x": -0.7258142718747249,
+      "y": 0.16505780848165483
+    },
+    {
+      "kind": "economist",
+      "id": "thomas_sargent",
+      "name": "Thomas J. Sargent",
+      "x": -0.7156037098496507,
+      "y": 0.17244967906362355
+    },
+    {
+      "kind": "economist",
+      "id": "edward_prescott",
+      "name": "Edward C. Prescott",
+      "x": -0.738311012423665,
+      "y": 0.1480594968984009
+    },
+    {
+      "kind": "economist",
+      "id": "robert_barro",
+      "name": "Robert J. Barro",
+      "x": -0.7388825327496457,
+      "y": 0.1556824743595759
+    },
+    {
+      "kind": "economist",
+      "id": "joseph_stiglitz",
+      "name": "Joseph E. Stiglitz",
+      "x": -0.03649728729697517,
+      "y": 0.4073567984223157
+    },
+    {
+      "kind": "economist",
+      "id": "paul_krugman",
+      "name": "Paul Krugman",
+      "x": -0.07091036129327673,
+      "y": 0.4330376892849763
+    },
+    {
+      "kind": "economist",
+      "id": "thorstein_veblen",
+      "name": "Thorstein Veblen",
+      "x": 0.6569289168891704,
+      "y": -0.12124463908595326
+    },
+    {
+      "kind": "economist",
+      "id": "john_commons",
+      "name": "John R. Commons",
+      "x": 0.6352923829675929,
+      "y": -0.11823590266456833
+    },
+    {
+      "kind": "economist",
+      "id": "wesley_mitchell",
+      "name": "Wesley C. Mitchell",
+      "x": 0.6593081548246537,
+      "y": -0.15962797301572748
+    },
+    {
+      "kind": "economist",
+      "id": "john_galbraith",
+      "name": "John Kenneth Galbraith",
+      "x": 0.6585712058675879,
+      "y": -0.10146869796052073
+    },
+    {
+      "kind": "economist",
+      "id": "ronald_coase",
+      "name": "Ronald H. Coase",
+      "x": -0.416108472905739,
+      "y": -0.050562434936881694
+    },
+    {
+      "kind": "economist",
+      "id": "oliver_williamson",
+      "name": "Oliver E. Williamson",
+      "x": -0.42774788435573646,
+      "y": -0.05894603728890551
+    },
+    {
+      "kind": "economist",
+      "id": "douglass_north",
+      "name": "Douglass C. North",
+      "x": -0.3677084547130846,
+      "y": -0.16242621316680345
+    },
+    {
+      "kind": "economist",
+      "id": "elinor_ostrom",
+      "name": "Elinor Ostrom",
+      "x": -0.40834153262078215,
+      "y": -0.049397595922482974
+    },
+    {
+      "kind": "economist",
+      "id": "walter_eucken",
+      "name": "Walter Eucken",
+      "x": -0.4732154612488724,
+      "y": -0.1129274719424234
+    },
+    {
+      "kind": "economist",
+      "id": "wilhelm_ropke",
+      "name": "Wilhelm Röpke",
+      "x": -0.4459063850582308,
+      "y": -0.0772004881272554
+    },
+    {
+      "kind": "economist",
+      "id": "james_buchanan",
+      "name": "James M. Buchanan",
+      "x": -0.70390033364663,
+      "y": -0.15596828692857176
+    },
+    {
+      "kind": "economist",
+      "id": "gordon_tullock",
+      "name": "Gordon Tullock",
+      "x": -0.6936897716215558,
+      "y": -0.14857641634660304
+    },
+    {
+      "kind": "economist",
+      "id": "piero_sraffa",
+      "name": "Piero Sraffa",
+      "x": 0.5579581931020298,
+      "y": 0.040826036848522894
+    },
+    {
+      "kind": "economist",
+      "id": "luigi_pasinetti",
+      "name": "Luigi L. Pasinetti",
+      "x": 0.6001344005851766,
+      "y": -0.0376663298766217
+    },
+    {
+      "kind": "economist",
+      "id": "herbert_simon",
+      "name": "Herbert A. Simon",
+      "x": 0.190307802086397,
+      "y": -0.17339445961590177
+    },
+    {
+      "kind": "economist",
+      "id": "daniel_kahneman",
+      "name": "Daniel Kahneman",
+      "x": 0.1914974210541386,
+      "y": -0.19258612658078889
+    },
+    {
+      "kind": "economist",
+      "id": "richard_thaler",
+      "name": "Richard H. Thaler",
+      "x": 0.17912106064707534,
+      "y": -0.14281045387760594
+    },
+    {
+      "kind": "economist",
+      "id": "nicholas_georgescu_roegen",
+      "name": "Nicholas Georgescu-Roegen",
+      "x": 0.7225112778513104,
+      "y": -0.07688726524520671
+    },
+    {
+      "kind": "economist",
+      "id": "herman_daly",
+      "name": "Herman E. Daly",
+      "x": 0.7108718664013131,
+      "y": -0.08527086759723053
+    },
+    {
+      "kind": "economist",
+      "id": "abba_lerner",
+      "name": "Abba P. Lerner",
+      "x": 0.737151910138836,
+      "y": 0.09150351304100035
+    },
+    {
+      "kind": "economist",
+      "id": "randall_wray",
+      "name": "L. Randall Wray",
+      "x": 0.7153019366637644,
+      "y": 0.07572804010700782
+    },
+    {
+      "kind": "economist",
+      "id": "stephanie_kelton",
+      "name": "Stephanie Kelton",
+      "x": 0.7160302408946619,
+      "y": 0.07864208232666242
+    },
+    {
+      "kind": "economist",
+      "id": "raul_prebisch",
+      "name": "Raúl Prebisch",
+      "x": 0.6755629972263109,
+      "y": 0.018193300635950805
+    },
+    {
+      "kind": "economist",
+      "id": "albert_hirschman",
+      "name": "Albert O. Hirschman",
+      "x": 0.6995787690833716,
+      "y": -0.023198769715208335
+    },
+    {
+      "kind": "economist",
+      "id": "dani_rodrik",
+      "name": "Dani Rodrik",
+      "x": 0.5747137622736879,
+      "y": -0.06994938868591556
+    }
+  ]
+}
