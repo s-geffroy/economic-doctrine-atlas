@@ -29,8 +29,10 @@ npm run dev
 
 ## Publication
 
-En ligne sur <https://www.ligne-de-crete.fr/economic-doctrine-atlas/>, servi par
-le site de ligne de crête depuis un tag de ce dépôt. Voir `docs/DEPLOYMENT.md`.
+En ligne sur <https://s-geffroy.github.io/economic-doctrine-atlas/>, publié par
+GitHub Pages à chaque push sur `main`. Voir `docs/DEPLOYMENT.md`. La fiche du
+travail sur <https://www.ligne-de-crete.fr/travaux/atlas-doctrines-eco/> y mène,
+et l'ancienne adresse sous ligne-de-crete.fr redirige ici en 301.
 
 L'ancre `#test` est un point d'entrée public : `…/economic-doctrine-atlas/#test`
 démarre le questionnaire directement, sans passer par le bandeau d'accueil.

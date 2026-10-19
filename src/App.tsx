@@ -34,8 +34,9 @@ function Crete(){
  </svg>;
 }
 
-// Meme cle de stockage que le site (`ldc-theme`) : la preference posee sur
-// ligne-de-crete.fr suit le visiteur jusqu'ici, et inversement.
+// Meme cle de stockage que ligne-de-crete.fr (`ldc-theme`). Depuis la
+// publication sur GitHub Pages, les deux sites n'ont plus la meme origine :
+// la cle garde la convention, la preference ne passe plus de l'un a l'autre.
 function useTheme(): [string, () => void] {
  const [theme, setTheme] = useState<string>(() => {
    if (typeof document === 'undefined') return 'dark';

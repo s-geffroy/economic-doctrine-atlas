@@ -5,34 +5,34 @@
    (src/static/css/site.css du site), afin que l'Atlas se lise comme une piece
    du site et non comme une application etrangere posee sur le domaine.
 
-   Les polices sont servies par le site a un chemin stable : `copier_assets()`
-   copie static/fonts/ vers /assets/fonts/ SANS hachage, contrairement au CSS
-   et au JS. On peut donc les referencer en absolu depuis ici.
+   Les polices sont embarquees dans ce depot (public/fonts/, copiees depuis
+   le site) : l'Atlas est publie sur GitHub Pages et ne depend d'aucun
+   fichier servi par ligne-de-crete.fr.
    ========================================================================== */
 
 @font-face {
   font-family: "Plex Sans";
-  src: url("/assets/fonts/IBMPlexSans-Regular-Latin1.woff2") format("woff2");
+  src: url("/fonts/IBMPlexSans-Regular-Latin1.woff2") format("woff2");
   font-weight: 400; font-style: normal; font-display: swap;
 }
 @font-face {
   font-family: "Plex Sans";
-  src: url("/assets/fonts/IBMPlexSans-SemiBold-Latin1.woff2") format("woff2");
+  src: url("/fonts/IBMPlexSans-SemiBold-Latin1.woff2") format("woff2");
   font-weight: 600; font-style: normal; font-display: swap;
 }
 @font-face {
   font-family: "Plex Sans";
-  src: url("/assets/fonts/IBMPlexSans-Italic-Latin1.woff2") format("woff2");
+  src: url("/fonts/IBMPlexSans-Italic-Latin1.woff2") format("woff2");
   font-weight: 400; font-style: italic; font-display: swap;
 }
 @font-face {
   font-family: "Plex Mono";
-  src: url("/assets/fonts/IBMPlexMono-Regular-Latin1.woff2") format("woff2");
+  src: url("/fonts/IBMPlexMono-Regular-Latin1.woff2") format("woff2");
   font-weight: 400; font-style: normal; font-display: swap;
 }
 @font-face {
   font-family: "Plex Mono";
-  src: url("/assets/fonts/IBMPlexMono-SemiBold-Latin1.woff2") format("woff2");
+  src: url("/fonts/IBMPlexMono-SemiBold-Latin1.woff2") format("woff2");
   font-weight: 600; font-style: normal; font-display: swap;
 }
 
