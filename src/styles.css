@@ -334,3 +334,18 @@ footer {
   nav .lien-nav { display: none; }
   main { padding-top: 2rem; }
 }
+
+/* --- Lien d'evitement et bandeau ligne de crete --------------------------- */
+/* Hors champ jusqu'au premier Tab ; il reste le premier arret du clavier. */
+.skip-link {
+  position: absolute; left: -9999px; top: .5rem; z-index: 100;
+  padding: .5rem .8rem; border-radius: var(--rayon);
+  background: var(--accent); color: var(--fond); font-weight: 600; text-decoration: none;
+}
+.skip-link:focus { left: .5rem; color: var(--fond); }
+#main:focus { outline: none; }
+/* Hauteur du bandeau reservee avant le chargement du kit (CLS). */
+ldc-bandeau:not(:defined) { display: block; height: 33px; }
+/* Le kit ajoute son pied en fin de body avant le rendu de React : masque tant
+   que #root est vide, sinon il s'affiche en haut puis est repousse (CLS). */
+#root:empty ~ ldc-pied { display: none; }
